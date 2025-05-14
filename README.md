@@ -1,1 +1,1 @@
-Financial Data Analysis Project
+Projet Python en Finance
