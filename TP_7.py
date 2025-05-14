@@ -183,4 +183,9 @@ if __name__ == "__main__":
     plt.legend()
     plt.grid(axis="y", linestyle="--", alpha=0.7)
     plt.tight_layout()
+    folder_path = os.path.join("Résultats", "Prédiction_TP7")
+    os.makedirs(folder_path, exist_ok=True)
+    # Nom du fichier
+    filename = f"TP7_Modèle.png"
+    file_path = os.path.join(folder_path, filename)
     plt.close()

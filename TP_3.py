@@ -125,6 +125,7 @@ def prepare_dataset_for_classification(enriched_dict):
 # On suppose que enriched_dict est déjà créé via apply_technical_indicators_to_labeled_data()
 X_train, X_test, y_train, y_test, feature_names = prepare_dataset_for_classification(enriched_dict)
 
+print("TP3")
 print(f"Taille des données d'entraînement : {X_train.shape}")
 print(f"Taille des données de test : {X_test.shape}")
 print(f"Noms des features : {list(feature_names)}")

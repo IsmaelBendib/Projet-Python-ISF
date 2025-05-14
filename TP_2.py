@@ -80,7 +80,7 @@ inerties = clust.elbow_method(df_scaled, max_k=15)
 
 
 def do_kmeans_clustering():
-    # Appliquez KMeans grâce à notre focntion dans notre bibliothèque CLust
+    # Appliquez KMeans grâce à notre fonction dans notre bibliothèque Clust
     Centres, Affect = clust.kmoyennes(4, df_scaled, epsilon=1e-4, iter_max=100, verbose=False)
 
     df_scaled['clusters'] = np.nan
@@ -103,6 +103,10 @@ def do_kmeans_clustering():
     plt.xlabel('t-SNE Dimension 1')
     plt.ylabel('t-SNE Dimension 2')
     plt.colorbar(label='Cluster')
+    # Crée le dossier 'Résultats' s'il n'existe pas
+    os.makedirs("Résultats", exist_ok=True)
+    # Sauvegarde la figure
+    plt.savefig("Résultats/TP2_Clusters_t-SNE.png", dpi=300)
     plt.close()
 
 
@@ -157,6 +161,12 @@ def plot_correlation_dendrogram(returns_df):
     plt.ylabel("Distance (1 - Corrélation)")
     plt.grid(True)
     plt.tight_layout()  # ajuste automatiquement les marges
+    
+    # Crée le dossier 'Résultats' s'il n'existe pas
+    os.makedirs("Résultats", exist_ok=True)
+    # Sauvegarde la figure
+    plt.savefig("Résultats/TP2_Dendrogramme.png", dpi=300)
+    
     plt.close()
 
 

@@ -120,6 +120,13 @@ def plot_predictions(predictions_dict):
                 plt.plot(pred, label=f"{model_name} pred")
 
         plt.legend()
+        # Crée le chemin Résultats/Prédiction/
+        folder_path = os.path.join("Résultats", "Prédiction_TP4")
+        os.makedirs(folder_path, exist_ok=True)
+
+        # Nom du fichier
+        filename = f"TP4_Prediction_{company}.png"
+        file_path = os.path.join(folder_path, filename)
         plt.close()
 
 

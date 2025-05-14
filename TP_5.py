@@ -154,6 +154,13 @@ def predict(model, X_test, y_test, scaler, model_type, entreprise_name=None):
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
+    # Crée le chemin Résultats/Prédiction/
+    folder_path = os.path.join("Résultats", "Prédiction_TP5")
+    os.makedirs(folder_path, exist_ok=True)
+
+    # Nom du fichier
+    filename = f"TP5_Prediction_{entreprise_name}.png"
+    file_path = os.path.join(folder_path, filename)
     plt.close()
     
 # Modèles à tester
