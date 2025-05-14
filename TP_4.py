@@ -127,6 +127,7 @@ def plot_predictions(predictions_dict):
         # Nom du fichier
         filename = f"TP4_Prediction_{company}.png"
         file_path = os.path.join(folder_path, filename)
+        plt.savefig(file_path)
         plt.close()
 
 

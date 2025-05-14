@@ -161,6 +161,7 @@ def predict(model, X_test, y_test, scaler, model_type, entreprise_name=None):
     # Nom du fichier
     filename = f"TP5_Prediction_{entreprise_name}.png"
     file_path = os.path.join(folder_path, filename)
+    plt.savefig(file_path)
     plt.close()
     
 # Modèles à tester
