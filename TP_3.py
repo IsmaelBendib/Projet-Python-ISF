@@ -18,6 +18,70 @@ import shap
 
 folder = "Companies_historical_data/"
 
+import yfinance as yf
+
+def download_macro_data(start="2019-03-14", end="2024-03-14"):
+    symbols = {
+        'VIX': '^VIX',
+        'US10Y': '^TNX',
+        'SP500': '^GSPC'
+    }
+    macro_df = pd.DataFrame()
+    for name, ticker in symbols.items():
+        data = yf.download(ticker, start=start, end=end)['Close']
+        data.name = name
+        macro_df = pd.concat([macro_df, data], axis=1)
+    macro_df.index = pd.to_datetime(macro_df.index)
+    macro_df = macro_df.fillna(method='ffill')
+    return macro_df
+
+def add_temporal_features(df):
+    df = df.copy()
+    df['Date'] = df.index
+    df['Date'] = pd.to_datetime(df['Date'])
+    df['Month'] = df['Date'].dt.month
+    df['Weekday'] = df['Date'].dt.weekday
+    df.drop(columns=['Date'], inplace=True)
+    return df
+
+def merge_macro_data(company_df, macro_df):
+    df = company_df.copy()
+    df.index = pd.to_datetime(df.index)
+    df = df.merge(macro_df, left_index=True, right_index=True, how='left')
+    df = add_temporal_features(df)
+    return df
+
+def apply_technical_indicators_to_labeled_data_with_macro(labeled_dict):
+    enriched_dict = {}
+    macro_df = download_macro_data()  # Données macroéconomiques (avec index datetime)
+
+    for filename, df in labeled_dict.items():
+        try:
+            df = df.copy()
+
+            # ✅ Étape 1 : créer une colonne Date si elle n'existe pas
+            if 'Date' not in df.columns:
+                df['Date'] = pd.date_range(start="2019-01-01", periods=len(df), freq='B')
+
+            # ✅ Étape 2 : convertir Date au bon format et la mettre en index
+            df['Date'] = pd.to_datetime(df['Date'])
+            df.set_index('Date', inplace=True)
+
+            # ✅ Étape 3 : ajouter les indicateurs techniques
+            df_enriched = add_technical_indicators(df)
+
+            # ✅ Étape 4 : fusionner avec macro données + ajouter variables temporelles
+            df_enriched = merge_macro_data(df_enriched, macro_df)
+
+            # ✅ Étape 5 : nettoyage
+            df_enriched.dropna(inplace=True)
+            enriched_dict[filename] = df_enriched
+
+        except Exception as e:
+            print(f"Erreur pour {filename} : {e}")
+
+    return enriched_dict
+
 
 ## ----- PARTIE 1 ----
 def create_labels(df):
@@ -101,6 +165,18 @@ enriched_dict = apply_technical_indicators_to_labeled_data(labeled_dict)
 example_file = list(enriched_dict.keys())[0]
 print(enriched_dict[example_file].head())
 
+enriched_dict = apply_technical_indicators_to_labeled_data_with_macro(labeled_dict)
+
+# ---------Exemple avec les nouvelles colonnes
+example_file = list(enriched_dict.keys())[0]
+df_example = enriched_dict[example_file]
+
+print(f"\nFichier exemple avec les nouvelles données : {example_file}")
+print("\nListe des colonnes ajoutées :")
+print(df_example.columns.tolist())
+
+print("\nAperçu des premières lignes du DataFrame enrichi :")
+print(df_example.head())
 
 def prepare_dataset_for_classification(enriched_dict):
     # Concaténer tous les DataFrames en un seul grand DataFrame

@@ -189,4 +189,4 @@ if __name__ == "__main__":
     filename = f"TP7_Modèle.png"
     file_path = os.path.join(folder_path, filename)
     plt.savefig(file_path)
-    plt.close()
+
