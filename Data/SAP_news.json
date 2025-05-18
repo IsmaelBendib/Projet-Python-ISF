@@ -1,0 +1,291 @@
+{
+    "2025-05-11": [
+        {
+            "title": "Chinese Hackers Exploit SAP NetWeaver RCE Flaw",
+            "description": "\"A China-linked unnamed threat actor dubbed Chaya_004 has been observed exploiting a recently disclosed security flaw in SAP NetWeaver,\" reports The Hacker News:\n\nForescout Vedere Labs, in a report published Thursday, said it uncovered a malicious infrastruct…",
+            "source": "Slashdot.org",
+            "url": "https://it.slashdot.org/story/25/05/11/0544252/chinese-hackers-exploit-sap-netweaver-rce-flaw",
+            "publishedAt": "2025-05-11T16:34:00Z"
+        }
+    ],
+    "2025-05-09": [
+        {
+            "title": "Chinese Hackers Exploit SAP RCE Flaw CVE-2025-31324, Deploy Golang-Based SuperShell",
+            "description": "A China-linked unnamed threat actor dubbed Chaya_004 has been observed exploiting a recently disclosed security flaw in SAP NetWeaver.\nForescout Vedere Labs, in a report published today, said it uncovered a malicious infrastructure likely associated with the …",
+            "source": "Internet",
+            "url": "https://thehackernews.com/2025/05/chinese-hackers-exploit-sap-rce-flaw.html",
+            "publishedAt": "2025-05-09T04:29:00Z"
+        },
+        {
+            "title": "An Interview with SAP CEO Christian Klein About Enterprise AI",
+            "description": "An interview with SAP CEO Christian Klein about why one of the oldest software companies of all is well-placed to win with the newest technologies.",
+            "source": "Stratechery.com",
+            "url": "https://stratechery.com/2025/an-interview-with-sap-ceo-christian-klein-about-enterprise-ai/",
+            "publishedAt": "2025-05-09T09:13:27Z"
+        },
+        {
+            "title": "DXC Complete with SAP and Microsoft helps enable modernization for the RISE with SAP and GROW with SAP journeys and SAP Business AI solutions on Microsoft Azure",
+            "description": "DXC Technology introduced DXC Complete with SAP and Microsoft to provide SAP customers with an accelerated path to modernization. As DXC's Managed... Read more at VMblog.com.",
+            "source": "114.162.43",
+            "url": "https://74.114.162.43:443/archive/2025/05/09/dxc-complete-with-sap-and-microsoft-helps-enable-modernization-for-the-rise-with-sap-and-grow-with-sap-journeys-and-sap-business-ai-solutions-on-microsoft-azure.aspx",
+            "publishedAt": "2025-05-09T12:26:00Z"
+        },
+        {
+            "title": "Chinese hackers behind attacks targeting SAP NetWeaver servers",
+            "description": "Forescout Vedere Labs security researchers have linked ongoing attacks targeting a maximum severity vulnerability impacting SAP NetWeaver instances to a Chinese threat actor. [...]",
+            "source": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-behind-attacks-targeting-sap-netweaver-servers/",
+            "publishedAt": "2025-05-09T16:23:08Z"
+        },
+        {
+            "title": "So Long, Synthetics — This Sustainable Furniture Collection is Bound by Natural Tree Sap",
+            "description": "Harnessing tree sap to bind wood is a technique that dates back more than 45,000 years — a fact that fascinated Catskills-based studio Earth to People enough to revive the age-old process, using nature's glue to assemble furniture pieces crafted from reclaime…",
+            "source": "Sightunseen.com",
+            "url": "https://www.sightunseen.com/2025/05/so-long-synthetics-this-sustainable-furniture-collection-is-bound-by-natural-tree-sap/",
+            "publishedAt": "2025-05-09T16:23:49Z"
+        },
+        {
+            "title": "Redwood Software Now an SAP Endorsed App Available on SAP Store",
+            "description": "Redwood delivers automation fabrics for mission-critical business processes, backed by a 20+ year partnership with SAP FRISCO, Texas, May 9, 2025 /PRNewswire/ -- Redwood Software™ announced today that its RunMyJobs by Redwood solution is now an SAP Endorsed A…",
+            "source": "PR Newswire UK",
+            "url": "https://www.prnewswire.co.uk/news-releases/redwood-software-now-an-sap-endorsed-app-available-on-sap-store-302451357.html",
+            "publishedAt": "2025-05-09T18:12:00Z"
+        },
+        {
+            "title": "Dimensional Fund Advisors LP Boosts Stock Holdings in SAP SE (NYSE:SAP)",
+            "description": "Dimensional Fund Advisors LP raised its stake in SAP SE (NYSE:SAP – Free Report) by 13.3% during the fourth quarter, HoldingsChannel.com reports. The fund owned 57,264 shares of the software maker’s stock after purchasing an additional 6,704 shares during the…",
+            "source": "ETF Daily News",
+            "url": "https://www.etfdailynews.com/2025/05/09/dimensional-fund-advisors-lp-boosts-stock-holdings-in-sap-se-nysesap/",
+            "publishedAt": "2025-05-09T08:02:48Z"
+        },
+        {
+            "title": "hana-ai 1.0.25050900",
+            "description": "Generative AI Toolkit for SAP HANA Cloud",
+            "source": "Pypi.org",
+            "url": "https://pypi.org/project/hana-ai/1.0.25050900/",
+            "publishedAt": "2025-05-09T09:46:45Z"
+        },
+        {
+            "title": "langchain-hana 0.2.0",
+            "description": "An integration package connecting SAP HANA Cloud and LangChain",
+            "source": "Pypi.org",
+            "url": "https://pypi.org/project/langchain-hana/0.2.0/",
+            "publishedAt": "2025-05-09T10:34:26Z"
+        },
+        {
+            "title": "sap2assembler 2.1.0",
+            "description": "A simple assembler for the SAP-2 computer architecture.",
+            "source": "Pypi.org",
+            "url": "https://pypi.org/project/sap2assembler/2.1.0/",
+            "publishedAt": "2025-05-09T06:00:24Z"
+        }
+    ],
+    "2025-05-14": [
+        {
+            "title": "BianLian and RansomExx Exploit SAP NetWeaver Flaw to Deploy PipeMagic Trojan",
+            "description": "At least two different cybercrime groups BianLian and RansomExx are said to have exploited a recently disclosed security flaw in SAP NetWeaver, indicating that multiple threat actors are taking advantage of the bug.\nCybersecurity firm ReliaQuest, in a new upd…",
+            "source": "Internet",
+            "url": "https://thehackernews.com/2025/05/bianlian-and-ransomexx-exploit-sap.html",
+            "publishedAt": "2025-05-14T17:50:00Z"
+        },
+        {
+            "title": "SAP patches recently exploited zero-day in wake of NetWeaver server attacks",
+            "description": "This is the second critical-severity flaw SAP patched after fixing a 10/10 flaw in late April",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/pro/security/sap-patches-recently-exploited-zero-day-in-wake-of-netweaver-server-attacks",
+            "publishedAt": "2025-05-14T11:29:00Z"
+        },
+        {
+            "title": "Ransomware gangs join ongoing SAP NetWeaver attacks",
+            "description": "Ransomware gangs have joined ongoing SAP NetWeaver attacks, exploiting a maximum-severity vulnerability that allows threat actors to gain remote code execution on vulnerable servers. [...]",
+            "source": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/",
+            "publishedAt": "2025-05-14T17:39:41Z"
+        },
+        {
+            "title": "smartShift Revolutionizes SAP Modernization with AI-Powered Revert to Standard",
+            "description": "Poised to Redefine SAP ERP Modernization, smartShift Unveils AI-Powered Platform to Accelerate Revert to Standard. Boston, MA, May 14, 2025 (GLOBE NEWSWIRE) — smartShift, a global leader in SAP custom code transformation, today announced the development of a …",
+            "source": "Financial Post",
+            "url": "https://financialpost.com/globe-newswire/smartshift-revolutionizes-sap-modernization-with-ai-powered-revert-to-standard",
+            "publishedAt": "2025-05-14T19:59:48Z"
+        },
+        {
+            "title": "sap-ecs-azure-log-forwarder 1.0.6",
+            "description": "A package to consume events from an Azure storage queue, process log files, and forward them to a HTTP endpoint or file.",
+            "source": "Pypi.org",
+            "url": "https://pypi.org/project/sap-ecs-azure-log-forwarder/1.0.6/",
+            "publishedAt": "2025-05-14T18:47:45Z"
+        },
+        {
+            "title": "Boomi and AWS Announce Strategic Collaboration to Transform Enterprise AI Integration, Automation, and SAP Cloud Migration",
+            "description": "CONSHOHOCKEN, Pa. — Boomi™, the leader in AI-driven automation, today announced a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help customers build, manage, monitor and govern generative artificial intelligence (AI) age…",
+            "source": "Financial Post",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/boomi-and-aws-announce-strategic-collaboration-to-transform-enterprise-ai-integration-automation-and-sap-cloud-migration",
+            "publishedAt": "2025-05-14T13:19:26Z"
+        },
+        {
+            "title": "Apple patched one first, but Microsoft’s blasted five exploited flaws this Pa-Tu",
+            "description": "Apple patched one first, but Microsoft’s blasted five exploited flaws this Pa-Tu\nPlus: All the fun and frolic of fixes from Adobe, SAP, Ivanti\nPatch Tuesday It's that time of the month again, and Microsoft has made it extra spicy by revealing five flaws it sa…",
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/359eeb95286610fa",
+            "publishedAt": "2025-05-14T00:57:35Z"
+        }
+    ],
+    "2025-05-15": [
+        {
+            "title": "SAP NetWeaver woes worsen as ransomware gangs join the attack",
+            "description": "At least two ransomware groups were spotted abusing the 10/10 bug, including a known Russian actor BianLian.",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/pro/security/sap-netweaver-woes-worsen-as-ransomware-gangs-join-the-attack",
+            "publishedAt": "2025-05-15T13:00:00Z"
+        },
+        {
+            "title": "SAP NetWeaver Flaw Exploited by Ransomware Groups and Chinese-Backed Hackers",
+            "description": "The critical vulnerability is being exploited by BianLian, RansomwEXX and a Chinese nation-state actor known as Chaya_004",
+            "source": "Infosecurity Magazine",
+            "url": "https://www.infosecurity-magazine.com/news/sap-netweaver-vulnerability/",
+            "publishedAt": "2025-05-15T14:15:00Z"
+        },
+        {
+            "title": "Aleran Software’s Digital Commerce Platform Is Certified by SAP as Built with SAP Business Technology Platform",
+            "description": "Aleran Software announced that its digital commerce platform for manufacturers is now certified by SAP as built with SAP Business Technology Platform. ......",
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2025/05/15/3082565/0/en/Aleran-Software-s-Digital-Commerce-Platform-Is-Certified-by-SAP-as-Built-with-SAP-Business-Technology-Platform.html",
+            "publishedAt": "2025-05-15T18:06:00Z"
+        },
+        {
+            "title": "UK SAP Consultancy Expands to US to Address S/4HANA Migration Challenge",
+            "description": "Resulting IT expands to the US, bringing its independent Phase Zero SAP advisory approach to help de-risk S/4HANA migrations for complex enterprises.......",
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2025/05/15/3082420/0/en/UK-SAP-Consultancy-Expands-to-US-to-Address-S-4HANA-Migration-Challenge.html",
+            "publishedAt": "2025-05-15T15:02:00Z"
+        }
+    ],
+    "2025-05-16": [
+        {
+            "title": "4 Keys To Successful Change Management From The Bain Playbook",
+            "description": "Learn how Bain accelerated its cloud transition combining implementation best practices from SAP with Bain’s own change management and process redesign.",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/sap/2025/05/16/4-keys-to-successful-change-management-from-the-bain-playbook/",
+            "publishedAt": "2025-05-16T11:11:35Z"
+        },
+        {
+            "title": "hana-ml 2.24.25051600",
+            "description": "Python Machine Learning Client for SAP HANA",
+            "source": "Pypi.org",
+            "url": "https://pypi.org/project/hana-ml/2.24.25051600/",
+            "publishedAt": "2025-05-16T03:27:31Z"
+        },
+        {
+            "title": "Want a fear-free mango season? Here is the science behind mango pimples and ulcers, and how to avoid them",
+            "description": "Craving mangoes but worried about those pesky pimples or painful mouth ulcers? Food science expert Krish Ashok busts the age-old myth that mangoes are simply “hot” in nature. From insulin spikes to sap-induced skin reactions, discover the real reasons behind …",
+            "source": "The Times of India",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/want-a-fear-free-mango-season-here-is-the-science-behind-mango-pimples-and-ulcers-and-how-to-avoid-them/articleshow/121213571.cms",
+            "publishedAt": "2025-05-16T12:22:53Z"
+        }
+    ],
+    "2025-05-12": [
+        {
+            "title": "SAP rolls back diversity targets amid U.S. legal pressure from Trump",
+            "description": "German software giant SAP will cut several of its diversity programmes to abide by new requirements of the US administration, a spokesman told AFP on Sunday, confirming reports in the local press.\nSince assuming office in January, US President Donald Trump ha…",
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/f52eea4d158b01c5",
+            "publishedAt": "2025-05-12T10:30:06Z"
+        },
+        {
+            "title": "Compromised SAP NetWeaver instances are ushering in opportunistic threat actors",
+            "description": "A second wave of attacks against the hundreds of SAP NetWeaver platforms compromised via CVE-2025-31324 is underway. “[The] attacks [are] staged by follow-on, opportunistic threat actors who are leveraging previously established webshells (from the first zero…",
+            "source": "Help Net Security",
+            "url": "https://www.helpnetsecurity.com/2025/05/12/compromised-sap-netweaver-instances-attacks-opportunistic-threat-actors/",
+            "publishedAt": "2025-05-12T12:58:21Z"
+        },
+        {
+            "title": "SAP to Roll Back Diversity Programs in the US",
+            "description": "SAP is the latest international company to comply with the Trump administration over its DEI demands.",
+            "source": "Adweek",
+            "url": "https://www.adweek.com/brand-marketing/sap-to-roll-back-diversity-programs-in-the-us/",
+            "publishedAt": "2025-05-12T13:59:49Z"
+        },
+        {
+            "title": "Today in Germany: A roundup of the latest news on Monday",
+            "description": "Thousand march in protest against the far right, software giant SAP scraps diversity measures to appease US government, new Foreign Minister calls for ceasefire in Gaza, and more news from around Germany on Monday.",
+            "source": "The Local Germany",
+            "url": "https://www.thelocal.de/20250512/today-in-germany-a-roundup-of-the-latest-news-on-monday-72",
+            "publishedAt": "2025-05-12T06:13:08Z"
+        },
+        {
+            "title": "SAP adjusts diversity targets, drops 40% women in workforce goal",
+            "description": "SAP is adjusting its diversity and inclusion targets, ceasing the aspirational goal of 40% women in the workforce. The company is replacing the 'women in executive roles' KPI with the Business Health Culture Index (BHCI) to better reflect employee experience.",
+            "source": "The Times of India",
+            "url": "https://timesofindia.indiatimes.com/business/international-business/sap-adjusts-diversity-targets-drops-40-women-in-workforce-goal/articleshow/121096880.cms",
+            "publishedAt": "2025-05-12T04:41:38Z"
+        },
+        {
+            "title": "『SAPアップグレードや運用の改修時に潜む“影響調査・テスト漏れ”をどう防ぐか』というテーマのウェビナーを開催",
+            "description": "[マジセミ株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/54842/3599/54842-3599-7f3e8894fd188dea1cf959be74101517-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+            "source": "Prtimes.jp",
+            "url": "https://prtimes.jp/main/html/rd/p/000003599.000054842.html",
+            "publishedAt": "2025-05-12T01:40:02Z"
+        },
+        {
+            "title": "SAP rolls over for Trump. Germans never believed in diversity to begin with [Obvious]",
+            "description": "SAP rolls over for Trump. Germans never believed in diversity to begin with",
+            "source": "Fark.com",
+            "url": "https://www.fark.com/comments/13667632/SAP-rolls-over-for-Trump-Germans-never-believed-in-diversity-to-begin-with",
+            "publishedAt": "2025-05-12T12:20:00Z"
+        }
+    ],
+    "2025-05-13": [
+        {
+            "title": "SAP patches second zero-day flaw exploited in recent attacks",
+            "description": "SAP has released patches to address a second vulnerability exploited in recent attacks targeting SAP NetWeaver servers as a zero-day. [...]",
+            "source": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/sap-patches-second-zero-day-flaw-exploited-in-recent-attacks/",
+            "publishedAt": "2025-05-13T20:48:18Z"
+        },
+        {
+            "title": "SecurityBridge Teams up With Microsoft to Enhance SAP Security With Microsoft Sentinel",
+            "description": "INGOLSTADT, Germany — SecurityBridge, the Cybersecurity Command Center for SAP, is pleased to announce its collaboration with Microsoft to integrate SAP data into Microsoft Sentinel. The integration enables SecurityBridge to seamlessly share SAP security even…",
+            "source": "Financial Post",
+            "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/securitybridge-teams-up-with-microsoft-to-enhance-sap-security-with-microsoft-sentinel",
+            "publishedAt": "2025-05-13T07:25:14Z"
+        },
+        {
+            "title": "robotframework-robosapiens 2.18.0",
+            "description": "Fully localized Robot Framework library for automating the SAP GUI using text selectors.",
+            "source": "Pypi.org",
+            "url": "https://pypi.org/project/robotframework-robosapiens/2.18.0/",
+            "publishedAt": "2025-05-13T15:15:48Z"
+        },
+        {
+            "title": "Saudi Arabia Chatbots Marke Forecasts & Opportunity Report 2024-2025 & 2030, Competitive Analysis of IBM, Microsoft, Oracle, Google, Amazon, SAP, Nuance Communications, Artificial Solutions Int'l",
+            "description": "Saudi Arabia's chatbots market, valued at USD 30.7M in 2024, is set to reach USD 109.91M by 2030, boasting a CAGR of 23.50%. Driving factors include automation demand, enhanced customer service, and digital innovations, spurred by COVID-19. Key players like I…",
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2025/05/13/3079864/28124/en/Saudi-Arabia-Chatbots-Marke-Forecasts-Opportunity-Report-2024-2025-2030-Competitive-Analysis-of-IBM-Microsoft-Oracle-Google-Amazon-SAP-Nuance-Communications-Artificial-Solutions-In.html",
+            "publishedAt": "2025-05-13T09:26:00Z"
+        }
+    ],
+    "2025-05-08": [
+        {
+            "title": "EY, DXC join SAP’s ongoing ERP migration push",
+            "description": "The consulting firms launched services to help enterprises move to S/4HANA cloud-based systems as a 2027 support deadline for on-prem customers looms.",
+            "source": "CIO Dive",
+            "url": "https://www.ciodive.com/news/ey-dxc-sap-cloud-erp-migration-support-services/747588/",
+            "publishedAt": "2025-05-08T15:19:28Z"
+        },
+        {
+            "title": "Users find RISE with SAP service levels below industry standard",
+            "description": "Gartner also says customers say ERP vendor's internal processes cause delays\nUsers who signed up for the RISE with SAP deal are finding that the costs are higher than expected, and the service levels are worse, research from Gartner indicates.…",
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/95cadbbc8522634c",
+            "publishedAt": "2025-05-08T14:12:39Z"
+        },
+        {
+            "title": "SAP sales tactic fuels IT disconnect",
+            "description": "Business heads are being targeted by SAP as it pushes out its Rise cloud ERP system",
+            "source": "ComputerWeekly.com",
+            "url": "https://www.computerweekly.com/news/366623762/SAP-sales-tactic-fuels-IT-disconnect",
+            "publishedAt": "2025-05-08T09:34:00Z"
+        }
+    ]
+}

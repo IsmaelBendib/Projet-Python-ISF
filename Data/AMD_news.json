@@ -1,0 +1,461 @@
+{
+    "2025-05-11": [
+        {
+            "title": "A guide to Nvidia's competitors: AMD, Qualcomm, Broadcom, startups, and more are vying to compete in the AI chip market",
+            "description": "Despite Nvidia's AI semiconductor dominance, competitors are innovating to challenge its lead. Read about AMD, Qualcomm, Broadcom, Amazon, and more.",
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/nvidia-competitors",
+            "publishedAt": "2025-05-11T08:57:02Z"
+        },
+        {
+            "title": "Linux 6.15 Fix Merged For Sizable Performance Regression On Newer AMD CPUs",
+            "description": "At the end of April I reported on a significant performance regression affecting newer AMD CPUs and was bisected to a change in the AMD SRSO mitigation handling for Zen 4/5 processors with the Linux 6.15 kernel. The fix for that significant performance regres…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Linux-6.15-Fixes-AMD-Perf",
+            "publishedAt": "2025-05-11T21:10:00Z"
+        },
+        {
+            "title": "GSoC 2025 Projects: AI-Powered Log Analyzer For Fedora, Better AMD ROCm On Debian",
+            "description": "This week Google announced all of the accepted projects for this year's Google Summer of Code (GSoC). There are 1,272 accepted students/projects this year for student developers working on various interesting open-source efforts over the summer...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/GSoC-2025-Projects",
+            "publishedAt": "2025-05-11T06:00:00Z"
+        },
+        {
+            "title": "Panasonic 65-inch 4K 144Hz OLED Fire TV with Dolby Vision/Atmos, FreeSync priced just $1000",
+            "description": "Panasonic is selling its 65 inch 85A 4K 144Hz OLED TV with Amazon Fire TV, AMD FreeSync Premium, Dolby Atmos and Vision, and more, at just $1000. Read more...",
+            "source": "Neowin",
+            "url": "https://www.neowin.net/deals/panasonic-65-inch-4k-144hz-oled-fire-tv-with-dolby-visionatmos-freesync-priced-just-1000/",
+            "publishedAt": "2025-05-11T06:02:01Z"
+        },
+        {
+            "title": "Tiny Corp heralds world's first AMD GPU driven via USB3 — eGPUs tested on Apple Silicon, with Linux and Windows also supported",
+            "description": "Tiny Corp has achieved the world's first eGPU operating in Tiny Grad over USB3, with compatibility across macOS, Windows, and Linux.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/tiny-corp-heralds-worlds-first-amd-gpu-driven-via-usb3-egpus-tested-on-apple-silicon-with-linux-and-windows-also-supported",
+            "publishedAt": "2025-05-11T15:57:33Z"
+        }
+    ],
+    "2025-05-14": [
+        {
+            "title": "Nvidia and AMD Stocks Rally on Trump's Saudi Arabia Visit",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e7a3660c-a671-4738-856d-3fc1a6e26374",
+            "publishedAt": "2025-05-14T14:39:19Z"
+        },
+        {
+            "title": "Costco Members: 16\" HP OmniBook 5 Laptop: 2K Touch IPS, AMD Ryzen AI 7 350, 16GB RAM $550 + $15 Shipping",
+            "description": "Costco starting 5/14\n\nHP Omnibook 5 16&quot; Next Gen AI Laptop - \nAMD Ryzen AI 7 350 - CoPilot+ PC - \n2K (1920 x 1200) Touchscreen - \n16GB Memory - \n1TB SSD - \nWindows 11 Home\n\nhttps://www.costco",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18308587-costco-members-16-hp-omnibook-5-laptop-2k-touch-ips-amd-ryzen-ai-7-350-16gb-ram-550-15-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-14T11:41:57Z"
+        },
+        {
+            "title": "AMD EPYC 4005 Series To Attack Cost-Sensitive Enterprise Server Market",
+            "description": "AMD’s EPYC 4005 Series may not make the most noise on spec sheets compared to high-end server platforms, but this new CPU family is a smart play in a fast-growing segment.",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/davealtavilla/2025/05/14/amd-epyc-4005-series-to-attack-cost-sensitive-enterprise-server-market/",
+            "publishedAt": "2025-05-14T19:47:34Z"
+        },
+        {
+            "title": "Chinese CPU vendor swaps AMD Zen architecture for homegrown one to deliver 128-core monster to give EPYC and Xeon a run for their money",
+            "description": "China’s Hygon ditches AMD architecture for a powerful homegrown chip aiming to rival the fastest CPUs in enterprise computing.",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/pro/chinese-cpu-vendor-swaps-amd-zen-architecture-for-homegrown-one-to-deliver-128-core-monster-to-give-epyc-and-xeon-a-run-for-their-money",
+            "publishedAt": "2025-05-14T20:11:00Z"
+        },
+        {
+            "title": "AMD Ryzen 9 9900 Series Linux Performance Since Launch",
+            "description": "After recently looking at how the Intel Core Ultra 9 285K \"Arrow Lake\" Linux performance has evolved since launch, many Phoronix readers were curious how a similar launch-day vs. now comparison would look on the AMD Zen 5 side. The article today is looking at…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/ryzen-9900-linux-2025",
+            "publishedAt": "2025-05-14T15:30:00Z"
+        },
+        {
+            "title": "AMD Begins Process Of Preparing The Linux Kernel For Zen 6 CPUs",
+            "description": "The first AMD Zen 6 patch for the Linux kernel has been queued up for submission soon to the mainline kernel...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/AMD-Zen-6-Linux-Kernel-Start",
+            "publishedAt": "2025-05-14T04:08:00Z"
+        },
+        {
+            "title": "AMD is allegedly working on Arm-based \"Sound Wave\" APUs for Microsoft's Surface laptops next year",
+            "description": "AMD is reportedly planning to integrate Arm-based cores in its Sound Wave APUs, in a bid to secure design wins for Microsoft's Surface laptops next year.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/cpus/amd-is-allegedly-working-on-arm-based-sound-wave-apus-for-microsofts-surface-laptops-next-year",
+            "publishedAt": "2025-05-14T13:22:45Z"
+        },
+        {
+            "title": "Intel admits it doesn't have any 'significant' commitments from customers to make advanced chips in its fabs",
+            "description": "That all-important 18A node has yet to convince the likes of Nvidia or AMD to jump onboard.",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/hardware/processors/intel-admits-it-doesnt-have-any-significant-commitments-from-customers-to-make-advanced-chips-in-its-fabs/",
+            "publishedAt": "2025-05-14T10:26:39Z"
+        },
+        {
+            "title": "Why AMD Stock Popped Wednesday Morning",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_622121f7-d3fb-40bb-8d00-6b7b14728e82",
+            "publishedAt": "2025-05-14T16:05:56Z"
+        },
+        {
+            "title": "Zotac is readying AMD Strix Halo powered mini-PCs for Computex",
+            "description": "Zotac is bringing AMD's game-changing Strix Halo APUs to its mini-PC stack with the Magnus EA, set for reveal at Computex.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/desktops/mini-pcs/zotac-is-readying-amd-strix-halo-powered-mini-pcs-for-computex",
+            "publishedAt": "2025-05-14T11:43:22Z"
+        },
+        {
+            "title": "Top Stock Movers Now: Super Micro Computer, AMD, Newmont, and More",
+            "description": "In This Article:\nKey Takeaways\n-\nU.S. equities were edging up at midday, with the S&P 500 and Nasdaq driven higher by solid gains from tech shares.\n-\nSuper Micro Computer was the best-performing stock in the S&P 500 on a $20 billion deal with Saudi firm DataV…",
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/f4a4ea8947d326dc",
+            "publishedAt": "2025-05-14T16:34:59Z"
+        },
+        {
+            "title": "AMD Stock Jumps. Buyback News, and More, Boosts AI Chip Maker",
+            "description": "",
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/51030ef86bbeaa27",
+            "publishedAt": "2025-05-14T15:06:55Z"
+        },
+        {
+            "title": "AI infrastructure firm TensorWave raises $100 million in latest funding",
+            "description": "The Series A funding round was led by Magnetar and AMD Ventures along with participation from existing partners, including Maverick Silicon and Nexus Venture...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/ai-infrastructure-firm-tensorwave-raises-110224570.html",
+            "publishedAt": "2025-05-14T11:02:24Z"
+        }
+    ],
+    "2025-05-09": [
+        {
+            "title": "21 GB/s CSV Parsing Using SIMD on AMD 9950X",
+            "description": "Sep 0.10.0 was released April 22nd,\n2025 with optimizations\nfor AVX-512 capable CPUs like the AMD\n9950X (Zen 5) and updated benchmarks\nincluding the 9950X. Sep now achieves a staggering 21 GB/s on the 9950X for\nthe low-level CSV parsing.  Before 0.10.0, Sep…",
+            "source": "Nietras.com",
+            "url": "https://nietras.com/2025/05/09/sep-0-10-0/",
+            "publishedAt": "2025-05-09T13:38:06Z"
+        },
+        {
+            "title": "Tech titans: Wanna secure US AI leadership? Stop giving the world excuses to buy Chinese",
+            "description": "Execs from AMD, Microsoft, and OpenAI tear into profit busting AI diffusion rules\nExecs from several top US tech companies, including Microsoft, AMD, and OpenAI, slammed the Biden administration's export rules for AI chips and said that winning the AI race ag…",
+            "source": "Theregister.com",
+            "url": "https://www.theregister.com/2025/05/09/tech_titans_wanna_secure_us/",
+            "publishedAt": "2025-05-09T15:09:13Z"
+        },
+        {
+            "title": "AMD's new Radeon graphics driver is ready for DOOM: The Dark Ages and delivers FSR 4 upscaling support to Frostpunk 2, more",
+            "description": "AMD's new Radeon \"Adrenaline Edition\" graphics driver 25.4.1 supports FSR 4 upscaling tech on The Elder Scrolls 4: Oblivion Remastered and other recent PC favorites.",
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/gaming/pc-gaming/amd-radeon-graphics-driver-may-2025-doom-the-dark-ages",
+            "publishedAt": "2025-05-09T14:00:17Z"
+        },
+        {
+            "title": "Chinese PC vendor shows rare picture of dozens of AMD Ryzen AI Max+ 395 mini workstations undergoing final aging tests and yes they've all got RGB fans spinning",
+            "description": "GMKtec shares rare image of its AMD Ryzen AI Max+ 395 mini PCs in final pre-shipment testing phase.",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/pro/chinese-pc-vendor-shows-rare-picture-of-dozens-of-amd-ryzen-ai-max-395-mini-workstations-undergoing-final-aging-tests-and-yes-theyve-all-got-rgb-fans-spinning",
+            "publishedAt": "2025-05-09T17:32:00Z"
+        }
+    ],
+    "2025-05-13": [
+        {
+            "title": "New Copilot+ PC feature rolls out to Windows Insiders — even if your device is powered by Intel or AMD",
+            "description": "Microsoft rolled out two new Windows 11 Insider builds, adding support for intelligent actions in Click to Do on Intel and AMD-powered Copilot+ PCs.",
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/software-apps/windows-11/new-copilot-pc-feature-rolls-out-to-insiders-even-if-your-device-is-powered-by-intel-or-amd",
+            "publishedAt": "2025-05-13T12:15:02Z"
+        },
+        {
+            "title": "AMD Ryzen 9 7900X Processor + ASUS TUF Gaming X870-Plus MB + 32GB RAM + 1TB SSD $586 + Free S/H",
+            "description": "Newegg has *AMD Ryzen 9 7900X Desktop Processor Combo Up Savings Bundle* on sale for *$585.98* or when you follow the instructions listed below. *Shipping is free*. \n \nThanks to Deal Hunter *tDames*...",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18311653-amd-7900x-asus-tuf-gaming-x870-plus-mb-32gb-corsair-rgb-ram-1tb-ssd-586-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-13T14:13:00Z"
+        },
+        {
+            "title": "AMD EPYC 4565P & EPYC 4585PX Benchmarks Against Xeon 6369P: EPYC 4005 Champions Entry-Level Server Performance",
+            "description": "With today's announcement of the AMD EPYC 4005P \"Grado\" entry-level server processors, up for review today are the EPYC 4565P and EPYC 4585PX processors as the top-end Zen 5 processors for budget server builds and basic bare metal server hosting. With the pri…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/amd-epyc-4585px-4565p-benchmarks",
+            "publishedAt": "2025-05-13T13:00:02Z"
+        },
+        {
+            "title": "Intel \"Xe4\" and AMD \"GFX13\" codenames surface for next-gen 'Druid' GPUs",
+            "description": "Patch notes and commits have revealed Xe4 (Druid) and GFX13 (successor to RDNA 4) as the internal codenames for upcoming GPU products from Intel and AMD.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/intel-xe4-and-amd-gfx13-codenames-surface-for-next-gen-druid-gpus",
+            "publishedAt": "2025-05-13T15:07:07Z"
+        },
+        {
+            "title": "Now it's AMD's Ryzen 9000-series processors alleged to be suffering from terminal voltage spikes and we're not sure if any CPUs are totally safe",
+            "description": "First it was Intel, now it's claimed AMD CPUs are dying thanks to voltage spikes.",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/hardware/processors/now-its-amds-ryzen-9000-series-processors-alleged-to-be-suffering-from-terminal-voltage-spikes-and-were-not-sure-if-any-cpus-are-totally-safe/",
+            "publishedAt": "2025-05-13T15:14:15Z"
+        },
+        {
+            "title": "Why can’t my $3000 gaming PC run Copilot+ features? Come on, Microsoft!",
+            "description": "I just spent $3,000 on a new gaming PC with a high-end AMD CPU and a screaming-fast Nvidia GeForce 5080 GPU. You’d think I’d be able to run the latest AI features in Windows with that, right? And yeah, I’d love AI-powered file search! But my PC can’t have it—…",
+            "source": "PCWorld",
+            "url": "https://www.pcworld.com/article/2778362/why-cant-my-3k-gaming-pc-run-copilot-features-come-on-microsoft.html",
+            "publishedAt": "2025-05-13T10:30:00Z"
+        },
+        {
+            "title": "Zen 5 comes to small businesses: AMD unveils EPYC 4005-series processors",
+            "description": "AMD launches Zen 5-based EPYC 4005-series 'Grado' processors for entry-level AM5 servers, offering up to 16 cores, robust security, and superior performance-per-dollar compared to Intel's entry-level Xeon.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/cpus/zen-5-comes-to-small-businesses-amd-unveils-epyc-4005-series-processors",
+            "publishedAt": "2025-05-13T13:04:34Z"
+        },
+        {
+            "title": "AMD EPYC 4005 Series Launches For Entry-Level Zen 5 Servers",
+            "description": "Last year AMD launched the EPYC 4004 series for taking Ryzen based processor designs into the EPYC segment for entry-level servers with ECC memory support, server designs with BMCs, and various enterprise software certifications and industry qualifications. T…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/amd-epyc-4005-linux-servers",
+            "publishedAt": "2025-05-13T13:00:00Z"
+        },
+        {
+            "title": "AMD says AM5 platforms can support CUDIMMs, but won't commit to a release date",
+            "description": "While AMD's AM5 platform is technically ready for advanced DDR5 features like CUDIMM, only future Ryzen processors may fully support them.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/cpus/amd-says-am5-platforms-can-support-cudimms-but-wont-commit-to-a-release-date",
+            "publishedAt": "2025-05-13T11:11:21Z"
+        },
+        {
+            "title": "Haiku OS Adds Support For More AMD Polaris GPUs & Other Changes In April",
+            "description": "The BeOS-inspired Haiku open-source operating system project has published their April 2025 progress report...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Haiku-OS-April-2025",
+            "publishedAt": "2025-05-13T04:00:00Z"
+        },
+        {
+            "title": "Advanced Micro Devices, Inc. (AMD) – MI300X, EPYC Chips Fuel AMD Growth Despite China Export Headwinds",
+            "description": "We recently published a list of 10 AI Stocks Surging on News and Ratings. In this article, we are going to take a look at where Advanced Micro Devices, Inc. ...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-215228677.html",
+            "publishedAt": "2025-05-13T21:52:28Z"
+        },
+        {
+            "title": "EPYC 4005 seriesが正式発表される",
+            "description": "AMD Announces EPYC 4005 \"Grado\" Zen 5 Server Processors for Socket AM5（TechPowerUp）AMD launches EPYC 4005 “Grado” AM5 enterprise CPUs featuring 6 to 16 Zen5 cores（VideoCardz）Zen 5 comes to small businesses: AMD unveils EPYC 4005-series processors（Tom's Hardwa…",
+            "source": "Fc2.com",
+            "url": "https://northwood.blog.fc2.com/blog-entry-12727.html",
+            "publishedAt": "2025-05-13T15:32:27Z"
+        }
+    ],
+    "2025-05-15": [
+        {
+            "title": "Intel could be prepping a new mid-range GPU, giving gamers another reason to skip NVIDIA's RTX 5060",
+            "description": "Intel's social media team has been teasing us with Arc B770 hints lately, which is great news for value-conscious PC gamers looking for an alternative to NVIDIA and AMD.",
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/hardware/nvidia/intel-b770-rumors-rtx-5060",
+            "publishedAt": "2025-05-15T16:49:25Z"
+        },
+        {
+            "title": "Microsoft Surface PCs with Arm-based AMD chip could arrive in 2026",
+            "description": "A reliable leaker claims Microsoft intends to launch new Surface PCs next year with AMD's upcoming Arm-based chip codenamed Sound Wave, but said chip looks to be designed for low-powered devices.",
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/hardware/surface/microsoft-surface-pcs-with-arm-based-amd-chip-could-arrive-in-2026",
+            "publishedAt": "2025-05-15T15:09:24Z"
+        },
+        {
+            "title": "This Is My Top Artificial Intelligence (AI) Chip Stock to Buy in May (Hint: It's Not Nvidia or AMD)",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05b88835-599c-4fd4-bab8-61b7eeef04d5",
+            "publishedAt": "2025-05-15T10:30:00Z"
+        },
+        {
+            "title": "Huge demand for Ryzen X3D chips sparked a crazy quarter for CPUs",
+            "description": "The CPU market experienced its most tumultuous quarter in some time, decreasing as a whole for AMD and Intel in terms of unit shipments. As Intel struggles, however, its competitors are seizing opportunity where they can.\r\n\n\n\n\nMercury Research released its re…",
+            "source": "PCWorld",
+            "url": "https://www.pcworld.com/article/2784417/big-demand-for-amds-x3d-chips-sparks-crazy-quarter-in-cpu-market.html",
+            "publishedAt": "2025-05-15T17:26:15Z"
+        },
+        {
+            "title": "What's Next For AMD Stock After Recent 20% Gain",
+            "description": "What factors are contributing to AMD stock's upward trend?",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/05/15/whats-next-for-amd-stock-after-recent-20-gain/",
+            "publishedAt": "2025-05-15T10:57:01Z"
+        },
+        {
+            "title": "Alphacool launches first Core GPU Cooler blocks for the AMD RX 9070 family",
+            "description": "German Cooling specialist Alphacool has just announced a sizeable expansion of its Core GPU Cooler block product series to cover the AMD Radeon 9070 / XT family.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/liquid-cooling/alphacool-launches-first-core-gpu-cooler-blocks-for-the-amd-rx-9070-family",
+            "publishedAt": "2025-05-15T11:00:57Z"
+        },
+        {
+            "title": "CachyOS, Clear Linux & Debian 13 Deliver The Best Performance On Framework Laptop 13 With AMD Strix Point",
+            "description": "For those that may be upgrading to the new Framework 13 with AMD Ryzen AI 300 series \"Strix Point\" SoCs and curious about hitting the best possible Linux performance, this article is for you. Here is a look at the performance of the Framework Laptop 13 with A…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/framework-13-amd-linux-2025",
+            "publishedAt": "2025-05-15T11:04:00Z"
+        },
+        {
+            "title": "AMD to split flagship AI GPUs into specialized lineups for AI and HPC, add UALink — Instinct MI400-series models takes a different path",
+            "description": "AMD will split its Instinct MI400-series into separate AI-focused (MI450X) and HPC-focused (MI430X) GPUs in H2 2026 to maximize performance per workload, but limited availability of UALink switches may hinder scalability.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/amd-to-split-flagship-ai-gpus-into-specialized-lineups-for-for-ai-and-hpc-add-ualink-instinct-mi400-series-models-takes-a-different-path",
+            "publishedAt": "2025-05-15T14:00:41Z"
+        },
+        {
+            "title": "AMD (AMD) Announces $6 Billion Buyback After Humain AI Deal",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21a88cdf-79d2-4af8-bf6e-69f1bf2e9920",
+            "publishedAt": "2025-05-15T12:19:04Z"
+        },
+        {
+            "title": "AMD all but confirms the RX 9060 XT will be announced on May 21",
+            "description": "All render and no reference card, either.",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-all-but-confirms-the-rx-9060-xt-will-be-announced-on-may-21/",
+            "publishedAt": "2025-05-15T10:57:53Z"
+        }
+    ],
+    "2025-05-08": [
+        {
+            "title": "ASUS ROG STRIX B650E-I GAMING WIFI Mini ITX AM5 Motherboard $230 + Free Shipping",
+            "description": "Newegg [newegg.com] has the Asus ROG STRIX B650E-I GAMING WIFI Mini ITX AM5 Motherboard  for $229.99. Shipping is Free\n\nDetails: AMD B650E\nSupports AMD Ryzen 7000 Series Desktop Processors* * Refer to",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18300115-asus-rog-strix-b650e-i-gaming-wifi-mini-itx-am5-motherboard-229-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-08T07:51:32Z"
+        },
+        {
+            "title": "Here’s why Trump killing the ‘AI diffusion rule’ is a win for chipmakers",
+            "description": "The U.S. government plans to withdraw a rule introduced under the Biden administration that had aimed to restrict exports of advanced AI chips — a policy that had posed challenges for major semiconductor companies like Nvidia (NVDA) and AMD (AMD).Read more...",
+            "source": "Quartz India",
+            "url": "https://qz.com/nvidia-amd-trump-biden-ai-chips-china-rule-1851779738",
+            "publishedAt": "2025-05-08T16:25:00Z"
+        },
+        {
+            "title": "Sell AMD Stock Amid China Risk?",
+            "description": "AMD recently released a set of Q1 results that surpassed expectations, and its outlook for Q2 was also more favorable than anticipated.",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/05/08/sell-amd-stock-amid-china-risk/",
+            "publishedAt": "2025-05-08T09:00:00Z"
+        },
+        {
+            "title": "After projecting losses of $1.5 billion, AMD CEO Lisa Su calls for a balance between export controls and national security",
+            "description": "Following an $800 million inventory charge due to U.S. export controls, AMD CEO Lisa Su echoed Nvidia's warnings that restricting access to the Chinese market could undermine American leadership in AI by enabling rival ecosystems.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/after-projecting-losses-of-usd1-5-billion-amd-ceo-lisa-su-calls-for-a-balance-between-export-controls-and-national-security",
+            "publishedAt": "2025-05-08T11:30:36Z"
+        },
+        {
+            "title": "AMD 25.5.1 Windows WHQL driver adds support for 9070 GRE, more FSR 4 games, fixes crashes",
+            "description": "AMD releases new driver version 25.5.1 on Windows. It brings support for 9070 GRE, expands FSR 4 and Vulkan support, and more. Read more...",
+            "source": "Neowin",
+            "url": "https://www.neowin.net/news/amd-2551-windows-whql-driver-adds-support-for-9070-gre-more-fsr-4-games-fixes-crashes/",
+            "publishedAt": "2025-05-08T03:28:01Z"
+        },
+        {
+            "title": "Qualcomm Snapdragon X Elite Benchmarks On Ubuntu Linux vs. AMD vs. Intel",
+            "description": "June 2024 marked the launch of the Qualcomm Snapdragon X Elite to much initial fanfare for finally some compelling ARM laptop designs. While initially -- and still to this day with the likes of the TUXEDO X Elite laptop not materializing yet -- being focused …",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/snapdragon-x-elite-linux-benchmarks",
+            "publishedAt": "2025-05-08T12:30:00Z"
+        }
+    ],
+    "2025-05-16": [
+        {
+            "title": "AMD Ryzen 7800X3D CPU + ASUS ROG STRIX B650E-I GAMING WIFI ITX Mobo + Thermal Paste $543 + Free Shipping",
+            "description": "Newegg [newegg.com] has *AMD Ryzen 7800X3D CPU + ASUS ROG STRIX B650E-I GAMING WIFI Motherboard + Cooler Master Thermal Paste* for *$540.35*. *Shipping is free.*",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18313018-amd-ryzen-7800x3d-asus-rog-strix-b650e-i-gaming-wifi-cooler-master-thermal-paste-540-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-16T00:24:54Z"
+        },
+        {
+            "title": "ASUS B650E MAX GAMING WIFI W AM5 ATX Motherboard + 32GB Team DDR5 6400 CL32 $170 + Free Shipping",
+            "description": "Newegg [newegg.com] has the ASUS B650E MAX GAMING WIFI W - AMD B650 AM5 ATX Motherboard + Team T-Force Delta RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FF4D532G6400H",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18318430-asus-b650e-max-gaming-wifi-w-am5-atx-motherboard-32gb-team-t-force-delta-rgb-ddr5-6400-cl32-ram-169-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-16T09:46:08Z"
+        },
+        {
+            "title": "The New AMD Ryzen 7 9800X3D Is One of the Best Gaming CPUs, and It's Back in Stock at Amazon",
+            "description": "Outperforms more expensive Intel and AMD processors in gaming.",
+            "source": "IGN",
+            "url": "https://www.ign.com/articles/amd-ryzen-7-9800x3d-am5-desktop-cpu-processor-back-in-stock-6",
+            "publishedAt": "2025-05-16T16:45:00Z"
+        },
+        {
+            "title": "AMD or Intel? Acer’s Swift X 14 offers either, plus a GeForce 5070",
+            "description": "Acer is launching two creator-class laptops at Computex 2025: the Swift X 14 and Swift X 14 AI, which give buyers the choice of either an AMD or Intel processor as well as an Nvidia GeForce RTX 5070.\r\n\n\n\n\nA creator-class laptop splits the difference between a…",
+            "source": "PCWorld",
+            "url": "https://www.pcworld.com/article/2779109/amd-or-intel-acers-swift-x-14-offers-either-plus-a-geforce-5070.html",
+            "publishedAt": "2025-05-16T13:00:00Z"
+        },
+        {
+            "title": "AMD Is Hiring Again To Help Enhance Ryzen On Linux",
+            "description": "AMD is once again hiring more Linux engineer(s) to work on their Ryzen client efforts under Linux with next-gen hardware enablement, enhancing features/support for existing Ryzen systems, and related efforts...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/AMD-Hiring-2025-Ryzen-Linux",
+            "publishedAt": "2025-05-16T05:00:00Z"
+        },
+        {
+            "title": "AMD Ryzen AI Max+ \"Strix Halo\" Delivers Best Performance On Linux Over Windows 11 - Even With Gaming",
+            "description": "Now having shown the very strong AMD Ryzen AI Max+ PRO 395 Linux performance for this \"Strix Halo\" SoC with Radeon 8060S iGPU for its integrated graphics, you may be wondering on the same hardware how this compares to Microsoft Windows 11. Today's article is …",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/amd-strix-halo-windows-linux",
+            "publishedAt": "2025-05-16T10:40:00Z"
+        },
+        {
+            "title": "Rumours of an Arm-based CPU from AMD just won't go away as analysts reckon Arm is eating into the PC processor market",
+            "description": "Arm's CPU market share reportedly increases from 10.8% to 13.6% in just one quarter.",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/hardware/processors/rumours-of-an-arm-based-cpu-from-amd-just-wont-go-away-as-analysts-reckon-arm-is-eating-into-the-pc-processor-market/",
+            "publishedAt": "2025-05-16T11:54:48Z"
+        }
+    ],
+    "2025-05-12": [
+        {
+            "title": "AMD Radeon 8060S Linux Graphics Performance With Strix Halo",
+            "description": "As shown in today's article the AMD Ryzen AI Max+ PRO 395 Linux performance is incredible with its 16 Zen 5 cores delivering staggering laptop / mobile workstation performance with a 55 Watt default TDP. But that's only half the magic of Strix Halo, with the …",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/amd-radeon-8060s-linux",
+            "publishedAt": "2025-05-12T10:00:00Z"
+        },
+        {
+            "title": "One of AMD's Radeon RX 9060 XT partner GPUs has been leaked online - I just hope the $566 price tag for an 8GB graphics card in 2025 is a joke",
+            "description": "AMD is preparing to reveal the Radeon RX 9060 series at Computex 2025, but a new partner card listing suggests a potential high price for its 8GB GPU.",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/computing/gpu/one-of-amds-radeon-rx-9060-xt-partner-gpus-has-been-leaked-online-i-just-hope-the-usd566-price-tag-for-an-8gb-graphics-card-in-2025-is-a-joke",
+            "publishedAt": "2025-05-12T10:33:29Z"
+        },
+        {
+            "title": "AMD Ryzen AI Max+ PRO 395 Linux Benchmarks: Outright Incredible Performance",
+            "description": "We finally have AMD's Strix Halo in the lab for benchmarking! HP has kindly sent over their ZBook Ultra 14-inch G1a mobile workstation: it's a beast being powered by the top-end AMD Ryzen AI Max+ PRO 395 SoC with 16 cores / 32 threads and powerful integrated …",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/amd-ryzen-ai-max-pro-395",
+            "publishedAt": "2025-05-12T10:00:01Z"
+        },
+        {
+            "title": "U.S. inks bill to force geo-tracking tech for high-end gaming and AI GPUs",
+            "description": "A new bill introduced by Senator Tom Cotton would mandate that U.S. chipmakers like AMD, Intel, and Nvidia to embed location-tracking features in high-performance AI and HPC processors starting six months after enactment.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/u-s-inks-bill-to-force-geo-tracking-tech-for-gpus-and-servers-high-end-gaming-gpus-also-subject-to-tracking",
+            "publishedAt": "2025-05-12T13:27:38Z"
+        }
+    ],
+    "2025-05-10": [
+        {
+            "title": "AMD RX 9060 XT GPU retailer listings start at $450",
+            "description": "We don't have official pricing yet from AMD, but according to various retailer listings, this will likely be the price range of the GPUs from AIB partners.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/amd-rx-9060-xt-gpu-retailer-listings-start-at-usd450",
+            "publishedAt": "2025-05-10T16:12:43Z"
+        },
+        {
+            "title": "AMD 6th Gen EPYC 9006 Venice CPUs reportedly offer up to 96 Zen 6 or 256 Zen 6c cores",
+            "description": "New details allege AMD's next-generation Zen 6 dense CCDs will carry up to 32 cores and 128MB of L3 cache, with 12 cores and 48MB for the standard CCDs.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/cpus/amd-6th-gen-epyc-9006-venice-cpus-reportedly-offer-up-to-96-zen-6-or-256-zen-6c-cores",
+            "publishedAt": "2025-05-10T15:31:11Z"
+        }
+    ]
+}

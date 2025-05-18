@@ -1,0 +1,286 @@
+{
+    "2025-05-15": [
+        {
+            "title": "Oracle VM VirtualBox – VM Escape via VGA Device",
+            "description": "### Summary\r\nAn integer overflow vulnerability exists within the VirtualBox vmsvga3dSurfaceMipBufferSize [[source](https://github.com/mirror/vbox/blob/74117a1cb257c00e2a92cf522e8e930bd1c4d64b/src/V...",
+            "source": "Github.com",
+            "url": "https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v",
+            "publishedAt": "2025-05-15T12:28:16Z"
+        },
+        {
+            "title": "Zato Blog: Using Oracle Database from Python and Zato Services",
+            "description": "Comprehensive guide to integrating Oracle Database with Python and Zato. Learn to query tables, call procedures, and build robust APIs.",
+            "source": "Zato.io",
+            "url": "https://zato.io/en/blog/oracle-database-in-python.html",
+            "publishedAt": "2025-05-15T08:00:00Z"
+        },
+        {
+            "title": "Warren Buffett Shows How Patience Pays: 98% Of His $160 Billion Wealth Came After Turning 65, Thanks The Power Of 'Compound Interest'",
+            "description": "According to the recent data shared by Creative Planning, Inc., the ‘Oracle of Omaha,’ Warren Buffett earned 98% of his current net worth after turning 65...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/warren-buffett-shows-patience-pays-183130800.html",
+            "publishedAt": "2025-05-15T18:31:30Z"
+        },
+        {
+            "title": "Windows 11 and Red Hat Linux hacked on first day of Pwn2Own",
+            "description": "On the first day of Pwn2Own Berlin 2025, security researchers were awarded $260,000 after successfully demonstrating zero-day exploits for Windows 11, Red Hat Linux, Docker Desktop, and Oracle VirtualBox. [...]",
+            "source": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/",
+            "publishedAt": "2025-05-15T15:48:44Z"
+        },
+        {
+            "title": "Thursday BP: What are some of your favorite Giants vs. A’s memories?",
+            "description": "The Giants will welcome the Athletics to Oracle Park tomorrow to begin a three-game series. What are Giants fans’ favorite memories of Giants vs. A’s games?",
+            "source": "McCovey Chronicles",
+            "url": "https://www.mccoveychronicles.com/2025/5/15/24429468/mlb-2025-san-francisco-giants-athletics-community-highlights-memories",
+            "publishedAt": "2025-05-15T12:00:00Z"
+        },
+        {
+            "title": "Pwn2Own Berlin 2025 Reveals The Next Topics On Insecurity Corner",
+            "description": "Pwn2Own has kicked off in Berlin and a disturbing number of zero days have been on display on the first day.  They range from Windows 11 to Red Hat to Oracle's Virtualbox…",
+            "source": "PC Perspective",
+            "url": "https://pcper.com/2025/05/pwn2own-berlin-2025-reveals-the-next-topics-on-insecurity-corner/",
+            "publishedAt": "2025-05-15T17:40:28Z"
+        }
+    ],
+    "2025-05-09": [
+        {
+            "title": "LEGO Oracle Red Bull Racing RB20 F1 Car",
+            "description": "Driven by Max Verstappen to the 2024 Formula One World Drivers' Championship, the Oracle Red Bull Racing RB20 is a historic race car. This LEGO set lets you build it in 1:8 scale brick form. Part of the Technic line, it's highly detailed, with working steerin…",
+            "source": "Uncrate.com",
+            "url": "https://shop.uncrate.com/products/oracle-red-bull-racing-rb20-f1-car",
+            "publishedAt": "2025-05-09T17:00:01Z"
+        },
+        {
+            "title": "Yuki Tsunoda On Watches, Life In Europe, And Representing Asia In Formula One",
+            "description": "Yuki Tsunoda, Oracle Red Bull Racing driver and Tag Heuer brand ambassador has hopes of one day representing Asia in Formula One.",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/cheryltiu/2025/05/09/yuki-tsunoda-on-watches-life-in-europe-and-representing-asia-in-formula-one/",
+            "publishedAt": "2025-05-09T15:46:51Z"
+        },
+        {
+            "title": "What Warren Buffett’s Retirement Teaches PR Firms About Enduring Influence",
+            "description": "Warren Buffett, long considered the \"Oracle of Omaha,\" mastered not just capital allocation, but the art of strategic storytelling.\nThe post What Warren Buffett’s Retirement Teaches PR Firms About Enduring Influence appeared first on PRNEWS.",
+            "source": "Prnewsonline.com",
+            "url": "https://www.prnewsonline.com/what-warren-buffetts-retirement-teaches-pr-firms-about-enduring-influence/",
+            "publishedAt": "2025-05-09T17:04:51Z"
+        },
+        {
+            "title": "Users advised to review Oracle Java use as Big Red's year end approaches",
+            "description": "International Java sales operation and the prospects of audits per-employee license model make the move to open source irresistible Experts are warning of an increase in Oracle Java audits - as the tech giant nears its year end - following a switch to a per-e…",
+            "source": "Theregister.com",
+            "url": "https://www.theregister.com/2025/05/09/users_advised_to_review_oracle_java_use/",
+            "publishedAt": "2025-05-09T13:35:14Z"
+        }
+    ],
+    "2025-05-13": [
+        {
+            "title": "Warren Buffett's Cash Mountain Grows To $314 Billion As Berkshire Hathaway Emerges As Top Treasury-Bill Holder: 'We'd Spend $100 Billion' If the Right Deal Came Along, Says Oracle Of Omaha",
+            "description": "Berkshire Hathaway Inc (NYSE:BRK) (NYSE:BRK) has silently emerged as one of the biggest players in the U.S. Treasury-bill market. In JPMorgan's estimation...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/warren-buffetts-cash-mountain-grows-035109845.html",
+            "publishedAt": "2025-05-13T03:51:09Z"
+        },
+        {
+            "title": "Security updates for Tuesday",
+            "description": "Security updates have been issued by Debian (libeconf and rubygems), Fedora (libxmp), Gentoo (glibc), Oracle (java-1.8.0-openjdk, kernel, libxslt, and virtuoso-opensource), SUSE (augeas, git-lfs, kanidm, and tomcat10), and Ubuntu (linux-lts-xenial).",
+            "source": "Lwn.net",
+            "url": "https://lwn.net/Articles/1020948/",
+            "publishedAt": "2025-05-13T08:55:51Z"
+        },
+        {
+            "title": "Oracle Partners With seQure To Bolster Cybersecurity For Governments, Enterprises",
+            "description": "Oracle Corporation (NYSE:ORCL), along with seQure, a cybersecurity firm and its partner, disclosed the availability of seQure’s Ground-Truth service on...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/oracle-partners-sequre-bolster-cybersecurity-133439308.html",
+            "publishedAt": "2025-05-13T13:34:39Z"
+        },
+        {
+            "title": "How to Watch Diamondbacks vs Giants: Live Stream MLB, TV Channel",
+            "description": "The Arizona Diamondbacks (21-20) are on the road on Monday night to take on the San Francisco Giants (24-17) in an NL West battle at Oracle Park.",
+            "source": "Newsweek",
+            "url": "https://www.newsweek.com/sports/mlb/how-watch-diamondbacks-vs-giants-live-stream-mlb-tv-channel-2071211",
+            "publishedAt": "2025-05-13T00:00:01Z"
+        },
+        {
+            "title": "5/17/25: City Connect Free Community Event Ft. LaRussell (SF) - FREE",
+            "description": "Attend the City Connect Community Event on Saturday, May 17, from noon to 4 p.m. in Mission Rock, just across McCovey Cove from Oracle Park. This free, all-ages celebration features live DJs, local food trucks and community booths. Bay Area hip hop artist LaR…",
+            "source": "Funcheap.com",
+            "url": "https://sf.funcheap.com/city-connect-free-community-event-ft-larussell-sf/",
+            "publishedAt": "2025-05-13T06:24:56Z"
+        },
+        {
+            "title": "5/12 Gamethread: Giants vs. Diamondbacks",
+            "description": "Justin Verlander gets the start against Merrill Kelly as the Giants welcome the Diamondbacks to Oracle Park tonight to begin a three-game series.",
+            "source": "McCovey Chronicles",
+            "url": "https://www.mccoveychronicles.com/2025/5/12/24428618/mlb-2025-san-francisco-giants-arizona-diamondbacks-how-to-watch-justin-verlander-merrill-kelly",
+            "publishedAt": "2025-05-13T01:15:00Z"
+        }
+    ],
+    "2025-05-14": [
+        {
+            "title": "Oracle Solaris 11.4.81 CBE Released After Three Year Hiatus",
+            "description": "Oracle Solaris 11.4.81 CBE is now available as the newest release of this Oracle Solaris \"Common Build Environment\" version that is essentially a community-supported. non-production version of Solaris intended for free / open-source software developers. Oracl…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Oracle-Solaris-11.4.81-CBE",
+            "publishedAt": "2025-05-14T04:00:00Z"
+        },
+        {
+            "title": "Oracle releases first “enthusiast” Solaris release in three years, promises more regular updates",
+            "description": "You’d almost forget, but aside from the enterprise-focused variant of Solaris for which Oracle sells support contracts, the company has also nominally maintained and released a version of Solaris aimed at non-production use and enthusiasts. This version, call…",
+            "source": "Osnews.com",
+            "url": "https://www.osnews.com/story/142363/oracle-releases-first-enthusiast-solaris-release-in-three-years-promises-more-regular-updates/",
+            "publishedAt": "2025-05-14T23:45:50Z"
+        },
+        {
+            "title": "Amazon RDS for Oracle now supports April 2025 Spatial Patch Bundle",
+            "description": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the Spatial Patch Bundle (SPB) for the April 2025 Release Update (RU) for Oracle Database version 19c. This update delivers important fixes for Oracle Spatial and Graph functionality, hel…",
+            "source": "Amazon.com",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-spatial-patch-bundle/",
+            "publishedAt": "2025-05-14T17:00:00Z"
+        },
+        {
+            "title": "Amazon RDS for Oracle now supports the April 2025 Release Update (RU)",
+            "description": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the April 2025 Release Update (RU) for Oracle Database versions 19c and 21c. These RUs include bug and security fixes and are available for RDS for Oracle Standard Edition 2 and Enterpris…",
+            "source": "Amazon.com",
+            "url": "https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-release-update",
+            "publishedAt": "2025-05-14T21:45:00Z"
+        },
+        {
+            "title": "The Buffett Blueprint: 3 Wealth-Building Habits That Separated the Oracle From Wall Street's Crowd",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e43a2c8d-4a1d-4a6b-9207-6ca65187a273",
+            "publishedAt": "2025-05-14T10:00:00Z"
+        },
+        {
+            "title": "Trump to rewrite AI chip curbs reviled by Nvidia and US allies",
+            "description": "The Trump administration plans to overhaul regulations on the export of semiconductors used in artificial intelligence (AI), tossing out a Biden-era approach that had drawn strenuous objections from US allies and companies including Nvidia Corp. and Oracle Co…",
+            "source": "Digitimes",
+            "url": "https://www.digitimes.com/news/a20250514VL201/nvidia-chips-semiconductors-donald-trump.html",
+            "publishedAt": "2025-05-14T01:52:05Z"
+        },
+        {
+            "title": "Oracle Corporation (ORCL) Pledges $14B for Saudi Arabia’s Vision 2030 with Cloud and AI Expansion",
+            "description": "We recently compiled a list of the 9 AI Stocks Poised to Gain from Trump’s Middle East AI Push. In this article, we are going to take a look at where Oracle ...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/oracle-corporation-orcl-pledges-14b-130054200.html",
+            "publishedAt": "2025-05-14T13:00:54Z"
+        },
+        {
+            "title": "How to Use Cash360 NetSuite : A Complete Guide for Businesses",
+            "description": "In today’s fast-paced business environment, managing cash flow effectively is critical for success. Oracle Cash360 NetSuite is a powerful tool designed to give businesses real-time...\nThe post How to Use Cash360 NetSuite : A Complete Guide for Businesses firs…",
+            "source": "Typeforyou.org",
+            "url": "https://typeforyou.org/cash360-netsuite/",
+            "publishedAt": "2025-05-14T20:28:00Z"
+        },
+        {
+            "title": "LEGO Technic Oracle Red Bull Racing RB20 F1 Car 42206 $242.10 (with EDR Code) in-Store/C&C @ Big W Online",
+            "description": "Note: BIG W Code XMAY2025 (10% off). Free Everyday Rewards account required. Earns 1560 EDR points courtesy of a bonus 1300 points on the purchase, so a nice way to use up your last EDR Extra …",
+            "source": "Ozbargain.com.au",
+            "url": "https://www.ozbargain.com.au/node/905752",
+            "publishedAt": "2025-05-14T08:12:13Z"
+        },
+        {
+            "title": "5/14 Gamethread: Giants vs. Diamondbacks",
+            "description": "Jordan Hicks gets the start against Eduardo Rodriguez as the Giants wrap up this three-game series against the Diamondbacks today at Oracle Park.",
+            "source": "McCovey Chronicles",
+            "url": "https://www.mccoveychronicles.com/2025/5/14/24429439/mlb-2025-san-francisco-giants-arizona-diamondbacks-how-to-watch-lineups-jordan-hicks",
+            "publishedAt": "2025-05-14T19:15:00Z"
+        },
+        {
+            "title": "5/13 Gamethread: Giants vs. Diamondbacks",
+            "description": "Robbie Ray gets the start against Brandon Pfaadt as the Giants continue this three-game series against the Diamondbacks tonight from Oracle Park.",
+            "source": "McCovey Chronicles",
+            "url": "https://www.mccoveychronicles.com/2025/5/13/24428725/mlb-2025-san-francisco-giants-arizona-diamondbacks-how-to-watch-robbie-ray-brandon-pfaadt",
+            "publishedAt": "2025-05-14T01:15:00Z"
+        },
+        {
+            "title": "Centre Gets 18,000 GPU Bids for Indigenous AI Models Under IndiaAI Mission",
+            "description": "In the second round of IndiaAI Mission GPU tenders for indigenous AI models development, the Centre has received 18000 bids from companies that have partnerships with Amazon Web Services, Google Cloud and Oracle\nThe post Centre Gets 18,000 GPU Bids for Indige…",
+            "source": "MediaNama.com",
+            "url": "https://www.medianama.com/2025/05/223-indiaai-mission-18000-gpu-bids-indigenous-ai-models/",
+            "publishedAt": "2025-05-14T13:37:30Z"
+        }
+    ],
+    "2025-05-16": [
+        {
+            "title": "Oracle Red Bull Racing And Gate.io Launch Onchain Fan Engagement",
+            "description": "A new collaboration between Oracle Red Bull Racing, Gate.io, and blockchain platform Abstract is introducing a different kind of F1 experience, built entirely onchain.",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/digital-assets/2025/05/16/oracle-red-bull-racing-and-gateio-launch-onchain-fan-engagement/",
+            "publishedAt": "2025-05-16T13:00:00Z"
+        },
+        {
+            "title": "Hackers exploit VMware ESXi, Microsoft SharePoint zero-days at Pwn2Own",
+            "description": "During the second day of Pwn2Own Berlin 2025, competitors earned $435,000 after exploiting zero-day bugs in multiple products, including Microsoft SharePoint, VMware ESXi, Oracle VirtualBox, Red Hat Enterprise Linux, and Mozilla Firefox. [...]",
+            "source": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/",
+            "publishedAt": "2025-05-16T15:23:22Z"
+        },
+        {
+            "title": "Friday BP: Oracle Park promotions this weekend",
+            "description": "If you’re headed to a game this weekend, here’s what Oracle Park has on deck in terms of special events and promotions.",
+            "source": "McCovey Chronicles",
+            "url": "https://www.mccoveychronicles.com/2025/5/16/24428688/mlb-2025-san-francisco-giants-oracle-park-promotions-giveaways",
+            "publishedAt": "2025-05-16T12:00:00Z"
+        }
+    ],
+    "2025-05-12": [
+        {
+            "title": "Ethereum Staking Giant Lido Loses Just 1.4 ETH in Hacking Attempt",
+            "description": "A private key belonging to Chorus Key was compromised, and a governance vote is underway to switch oracle providers.",
+            "source": "CoinDesk",
+            "url": "https://www.coindesk.com/tech/2025/05/12/ethereum-staking-giant-lido-loses-just-14-eth-in-hacking-attempt",
+            "publishedAt": "2025-05-12T05:53:22Z"
+        },
+        {
+            "title": "Monday BP: Which series are you most interested in this week?",
+            "description": "Giants baseball returns to Oracle Park this week. Which series are Giants fans most interested in?",
+            "source": "McCovey Chronicles",
+            "url": "https://www.mccoveychronicles.com/2025/5/12/24425074/mlb-2025-san-francisco-giants-schedule",
+            "publishedAt": "2025-05-12T12:00:00Z"
+        }
+    ],
+    "2025-05-11": [
+        {
+            "title": "Lido DAO initiates emergency vote to swap compromised oracle",
+            "description": "The Lido Decentralized Autonomous Organization (DAO), the entity that governs the Lido liquid staking protocol, has initiated an emergency vote to rotate a compromised oracle — a bridge that connects real-world data to blockchain systems.According to members …",
+            "source": "Cointelegraph",
+            "url": "https://cointelegraph.com/news/lido-dao-initiates-vote-swap-compromised-oracle",
+            "publishedAt": "2025-05-11T17:06:19Z"
+        },
+        {
+            "title": "Oracle-M Completes Successful Hot Fire Test for Cislunar Space Mission",
+            "description": "Los Angeles CA (SPX) May 12, 2025\n\n\nThe United States Space Force (USSF) Space Systems Command (SSC) and the Air Force Research Laboratory (AFRL) have achieved a critical milestone in cislunar space situational awareness (SSA) with the successful completion o…",
+            "source": "Moondaily.com",
+            "url": "https://www.moondaily.com/reports/Oracle_M_Completes_Successful_Hot_Fire_Test_for_Cislunar_Space_Mission_999.html",
+            "publishedAt": "2025-05-11T10:12:38Z"
+        }
+    ],
+    "2025-05-10": [
+        {
+            "title": "Most baby boomers can’t afford assisted living and are weighing on the housing market by staying in their homes, ‘Oracle of Wall Street’ says",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b4398da9-e988-4e6e-8a0b-2734dcd2af32",
+            "publishedAt": "2025-05-10T22:00:48Z"
+        },
+        {
+            "title": "Oracle’s AI play: Making databases speak your language",
+            "description": "In an era where artificial intelligence is rapidly reshaping digital infrastructure, Oracle Corp. is reimagining the very foundation of enterprise computing — the database. From AI-infused operations to lightning-fast data recovery, Oracle is baking intellige…",
+            "source": "SiliconANGLE News",
+            "url": "https://siliconangle.com/2025/05/10/oracle-ai-database-access-cubeconversations-nyseexperts/",
+            "publishedAt": "2025-05-10T22:18:23Z"
+        }
+    ],
+    "2025-05-17": [
+        {
+            "title": "5/16 Gamethread: Giants vs. A’s",
+            "description": "Logan Webb gets the start against JP Sears as the Giants welcome the A’s to Oracle Park tonight to begin a three-game series.",
+            "source": "McCovey Chronicles",
+            "url": "https://www.mccoveychronicles.com/2025/5/16/24431579/mlb-2025-san-francisco-giants-athletics-how-to-watch-logan-webb-jp-sears",
+            "publishedAt": "2025-05-17T01:45:00Z"
+        }
+    ]
+}

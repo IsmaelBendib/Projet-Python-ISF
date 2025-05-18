@@ -1,0 +1,356 @@
+{
+    "2025-05-08": [
+        {
+            "title": "Cisco Patches CVE-2025-20188 (10.0 CVSS) in IOS XE That Enables Root Exploits via JWT",
+            "description": "Cisco has released software fixes to address a maximum-severity security flaw in its IOS XE Wireless Controller that could enable an unauthenticated, remote attacker to upload arbitrary files to a susceptible system.\nThe vulnerability, tracked as CVE-2025-201…",
+            "source": "Internet",
+            "url": "https://thehackernews.com/2025/05/cisco-patches-cve-2025-20188-100-cvss.html",
+            "publishedAt": "2025-05-08T04:57:00Z"
+        },
+        {
+            "title": "Cisco’s new chip wants to scale quantum computing faster",
+            "description": "Cisco is making significant strides in quantum computing by focusing on quantum networking, aiming to bring practical applications closer to reality. The company recently introduced a prototype of its Quantum Network Entanglement Chip and inaugurated the Cisc…",
+            "source": "Help Net Security",
+            "url": "https://www.helpnetsecurity.com/2025/05/08/cisco-quantum-network-entanglement-chip/",
+            "publishedAt": "2025-05-08T08:15:02Z"
+        },
+        {
+            "title": "Cisco fixed a critical flaw in its IOS XE Wireless Controller",
+            "description": "Cisco addressed a flaw in its IOS XE Wireless Controller that could enable an unauthenticated, remote attacker to upload arbitrary files. Cisco released software updates to address a vulnerability, tracked as CVE-2025-20188 (CVSS score 10), in IOS XE Wireless…",
+            "source": "Securityaffairs.com",
+            "url": "https://securityaffairs.com/177609/security/cisco-fixed-a-critical-flaw-in-its-ios-xe-wireless-controller.html",
+            "publishedAt": "2025-05-08T13:13:41Z"
+        },
+        {
+            "title": "Your guide to purpose and impact at Cisco Live San Diego",
+            "description": "You’ll see Purpose front and center at Cisco Live San Diego from June 9-12, 2025 – our biggest global customer event that brings together top experts, partners, and customers to experience our innovations firsthand.  you’ll see Purpose front and center at Cis…",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/our-corporate-purpose/your-guide-to-purpose-and-impact-at-cisco-live-san-diego",
+            "publishedAt": "2025-05-08T16:00:40Z"
+        },
+        {
+            "title": "Level Up Your Cisco Partnership with Black Belt Academy",
+            "description": "Cisco’s Black Belt Academy equips partners with tailored training, agile updates, and strategic alignment to drive growth, enhance skills, and deliver exceptional value in the Cisco ecosystem.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/?p=472441",
+            "publishedAt": "2025-05-08T15:10:37Z"
+        },
+        {
+            "title": "Cisco fixes max severity IOS XE flaw letting attackers hijack devices",
+            "description": "Cisco has fixed a maximum severity flaw in IOS XE Software for Wireless LAN Controllers by a hard-coded JSON Web Token (JWT) that allows an unauthenticated remote attacker to take over devices. [...]",
+            "source": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-max-severity-ios-xe-flaw-letting-attackers-hijack-devices/",
+            "publishedAt": "2025-05-08T20:53:18Z"
+        },
+        {
+            "title": "Cisco Systems, Inc. (CSCO): Among the Cheap ESG Stocks to Buy According to Hedge Funds",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_199341a1-b641-48da-94c1-688e67a37e02",
+            "publishedAt": "2025-05-08T13:47:50Z"
+        }
+    ],
+    "2025-05-11": [
+        {
+            "title": "Walmart, Cisco, Alibaba, Petrobras: Stocks to watch this week",
+            "description": "Markets ended last week on a high after a turbulent stretch, with stocks rallying as investors absorbed a flurry of headlines: The Fed held rates steady, a tentative U.S.-U.K. trade deal emerged, and Alphabet’s ongoing antitrust saga took a twist as Apple’s E…",
+            "source": "Quartz India",
+            "url": "https://qz.com/wmt-csco-crwv-pbr-stocks-earnings-nasdaq-sp500-djia-1851779921",
+            "publishedAt": "2025-05-11T09:00:00Z"
+        },
+        {
+            "title": "What Analysts Think of Cisco Stock Ahead of Earnings",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6330f00d-e788-4310-8aa3-6ad99cd009e9",
+            "publishedAt": "2025-05-11T09:00:00Z"
+        },
+        {
+            "title": "Walmart, Deere, Alibaba, Cisco: Earnings to Watch This Week",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_99633f82-d714-41ad-b1ce-be0dae0ee0bb",
+            "publishedAt": "2025-05-11T12:00:13Z"
+        },
+        {
+            "title": "COLLEGE BASEBALL: OC advances past Cisco College in NJCAA Region V District Tournament",
+            "description": "May 10—The Odessa College baseball team advanced to the second round of the NJCAA Region V District Tournament by finishing off Cisco College in a 6-2 win Saturday in Game 3 at Wrangler Ballpark. Playing in the best-of-three series, Odessa College took contro…",
+            "source": "Oaoa.com",
+            "url": "https://www.oaoa.com/sports/college-baseball-oc-advances-past-cisco-college-in-njcaa-region-v-district-tournament/",
+            "publishedAt": "2025-05-11T00:02:00Z"
+        }
+    ],
+    "2025-05-09": [
+        {
+            "title": "Cisco has patched a worrying flaw which could have let attackers hijack devices",
+            "description": "Another day, another hardcoded token, as Cisco moves to defend against threats.",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/pro/security/cisco-has-patched-a-worrying-flaw-which-could-have-let-attackers-hijack-devices",
+            "publishedAt": "2025-05-09T14:44:00Z"
+        },
+        {
+            "title": "FBI warns outdated routers are being hacked and hijacked for criminal purposes",
+            "description": "Multiple Linksys and Cisco models are among those being targeted and assimilated into botnets.",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/pro/security/fbi-warns-outdated-routers-are-being-hacked-and-hijacked-for-criminal-purposes",
+            "publishedAt": "2025-05-09T13:10:00Z"
+        },
+        {
+            "title": "COLLEGE BASEBALL: Odessa College takes Game 1 against Cisco",
+            "description": "May 8—The Odessa College baseball team moved one step closer to advancing to the next round of the region tournament by defeating Cisco College 8-4 Thursday at Wrangler Ballpark. Playing in Game 1 in a best-of-three series in the first round of the Southwest …",
+            "source": "Oaoa.com",
+            "url": "https://www.oaoa.com/sports/college-baseball-odessa-college-takes-game-1-against-cisco/",
+            "publishedAt": "2025-05-09T00:02:00Z"
+        }
+    ],
+    "2025-05-12": [
+        {
+            "title": "The FBI says that elderly Cisco Linksys router you've been meaning to replace may be under serious threat from cyber criminals",
+            "description": "Throw it in the bin. Trash. Garbage. Whichever you prefer.",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/hardware/networking/the-fbi-says-that-elderly-cisco-linksys-router-youve-been-meaning-to-replace-may-be-under-serious-threat-from-cyber-criminals/",
+            "publishedAt": "2025-05-12T14:06:09Z"
+        },
+        {
+            "title": "From floods to fires: Investing in technologies that make communities more resilient",
+            "description": "Learn how the Cisco Foundation is supporting startups and organizations that are using innovative technologies to help communities adapt and build resilience.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/our-corporate-purpose/from-floods-to-fires-investing-in-technologies-that-make-communities-more-resilient",
+            "publishedAt": "2025-05-12T21:13:42Z"
+        },
+        {
+            "title": "Cloud-Delivered Security Landing in China",
+            "description": "Announcing Cisco Secure Access China, Operated by Digital China Cloud Regulatory ambiguity. Compliance Risk. Cybersecurity threats. These daily realities are especially challenging for multinational companies. To support our customers’ growth in Mainland Chin…",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/security/cloud-delivered-security-landing-in-china",
+            "publishedAt": "2025-05-12T12:00:00Z"
+        }
+    ],
+    "2025-05-15": [
+        {
+            "title": "Cisco Fiscal Q3 Earnings, Revenue Top Wall Street Targets Amid Growing AI Orders. New CFO Named.",
+            "description": "Cisco stock climbed after the tech giant reported fiscal Q3 earnings and revenue that topped estimates as new product orders rebounded.",
+            "source": "Investor's Business Daily",
+            "url": "https://www.investors.com/news/technology/cisco-stock-csco-cisco-earnings-q12025/",
+            "publishedAt": "2025-05-15T12:05:55Z"
+        },
+        {
+            "title": "Cisco upgraded, CoreWeave downgraded: Wall Street's top analyst calls",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b62c79d8-2147-41c6-8708-a18bae56c16b",
+            "publishedAt": "2025-05-15T13:44:18Z"
+        },
+        {
+            "title": "Cisco taps chief strategy officer to succeed retiring CFO",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f67aa83d-da5d-451d-8ee8-fb772edd9c87",
+            "publishedAt": "2025-05-15T15:14:06Z"
+        },
+        {
+            "title": "Cisco Upgraded on AI-Fueled Order Surge",
+            "description": "Wells Fargo, Evercore and BofA lift forecasts after strong Q3",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/cisco-upgraded-ai-fueled-order-202939326.html",
+            "publishedAt": "2025-05-15T20:29:39Z"
+        },
+        {
+            "title": "Cisco (CSCO) Jumps on Strong Q3 Results, Higher Guidance; AI Orders Top $600M",
+            "description": "Cisco Rallies on Better-Than-Expected Q3 and Raised FY View",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/cisco-csco-jumps-strong-q3-130623897.html",
+            "publishedAt": "2025-05-15T13:06:23Z"
+        },
+        {
+            "title": "How Cisco Networking Academy is Enhancing Accessibility Education",
+            "description": "Discover how Cisco Networking Academy is empowering the next generation of tech leaders with accessibility at the forefront.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/learning/cisco-networking-academy-is-enhancing-accessibility-education",
+            "publishedAt": "2025-05-15T22:14:08Z"
+        },
+        {
+            "title": "Level Up: Creating Tech Employment Opportunities in Brazil and Beyond",
+            "description": "Logicalis' Level Up program, leveraging Cisco Networking Academy, empowers participants with tech skills, mentorship, and certifications, creating pathways to employment and transforming opportunities across Latin America.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/partner/level-up-creating-tech-employment-opportunities-in-brazil-and-beyond",
+            "publishedAt": "2025-05-15T15:00:32Z"
+        },
+        {
+            "title": "Wall Street ends mixed; Cisco rallies while UnitedHealth tumbles",
+            "description": "(Reuters) -Wall Street stocks ended mixed on Thursday, with gains in Cisco Systems following an upbeat forecast, while UnitedHealth tumbled after a report of...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/us-stock-futures-slide-tariff-095918779.html",
+            "publishedAt": "2025-05-15T09:59:18Z"
+        },
+        {
+            "title": "Here’s what Wall Street experts are saying about Cisco ahead of earnings",
+            "description": "Cisco (CSCO) is scheduled to report results of its fiscal third quarter after the market closes on May 14 with a conference call scheduled for 4:30 pm ET...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/wall-street-experts-saying-cisco-160631247.html",
+            "publishedAt": "2025-05-15T16:06:31Z"
+        },
+        {
+            "title": "Improving Data Center Sustainability with Cisco MDS 9000 Transceiver Power-Control Capability",
+            "description": "The transceiver power-control feature within Cisco MDS 9000 switches contributes to the broader goal of creating more environmentally responsible and cost-effective data center operations.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/our-corporate-purpose/improving-data-center-sustainability-with-cisco-mds-9000-transceiver-power-control-capability",
+            "publishedAt": "2025-05-15T15:25:06Z"
+        },
+        {
+            "title": "Thoughts from Cisco’s third-quarter earnings results",
+            "description": "Networking giant Cisco Systems Inc. announced a solid third quarter Wednesday, posting a beat and raise. Here are my top five thoughts from this quarter. Artificial intelligence revenue is gaining momentum. On the call Cisco noted $600 million in AI product o…",
+            "source": "SiliconANGLE News",
+            "url": "https://siliconangle.com/2025/05/15/thoughts-ciscos-third-quarter-earnings-results/",
+            "publishedAt": "2025-05-15T17:53:11Z"
+        },
+        {
+            "title": "Beyond Recognition: Celebrating Cisco’s Women Channel Leaders in 2025",
+            "description": "Today marks a moment of genuine pride as I celebrate the incredible Cisco leaders named to CRN's 2025 Women of the Channel list. This recognition isn't just about titles or achievements—it's about the transformative impact these leaders create every day for o…",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/partner/celebrating-ciscos-women-channel-leaders-in-2025",
+            "publishedAt": "2025-05-15T18:17:50Z"
+        }
+    ],
+    "2025-05-14": [
+        {
+            "title": "Cisco Delivers Strong Earnings as AI Infrastructure Orders Grow",
+            "description": "Cisco reported fiscal third-quarter revenue and profits that topped analysts’ projections, thanks in part to strong demand for AI infrastructure.",
+            "source": "Investopedia",
+            "url": "https://www.investopedia.com/cisco-earnings-q3-fy2025-11733130",
+            "publishedAt": "2025-05-14T20:38:05Z"
+        },
+        {
+            "title": "Cisco Systems, Inc. (CSCO) Expands Global AI Collaboration with Saudi Arabia, UAE, and U.S.",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f0a148b-94a0-4079-b08e-1f5e4f40a55a",
+            "publishedAt": "2025-05-14T12:56:16Z"
+        },
+        {
+            "title": "Simplify and Scale Security With Cisco Hybrid Mesh Firewall",
+            "description": "Modern enterprises face challenges balancing security with the operational needs. Cisco solves this with Cisco Hybrid Mesh Firewall.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/security/simplify-and-scale-security-with-cisco-hybrid-mesh-firewall",
+            "publishedAt": "2025-05-14T12:00:22Z"
+        },
+        {
+            "title": "Cisco lifts annual forecast on AI boost, names insider Patterson as new CFO",
+            "description": "(Reuters) -Cisco Systems said on Wednesday that its finance chief Scott Herren will retire from the company in July, and raised its annual results forecast, ...",
+            "source": "Yahoo Entertainment",
+            "url": "https://finance.yahoo.com/news/cisco-raises-full-revenue-forecast-201513587.html",
+            "publishedAt": "2025-05-14T20:15:13Z"
+        },
+        {
+            "title": "Updates to Cisco’s Executive Leadership Team",
+            "description": "With the announcement of Scott Herren's retirement, Mark Patterson will step into the role as Cisco’s Chief Financial Officer on day one of fiscal year 2026. Jeetu Patel has also been promoted to President and Chief Product Officer.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/news/updates-to-ciscos-executive-leadership-team",
+            "publishedAt": "2025-05-14T20:45:26Z"
+        },
+        {
+            "title": "Cisco raises full-year results forecast on AI-driven demand; shares rise",
+            "description": "Cisco Systems raised its annual results forecast on Wednesday, betting on steady demand from cloud customers for its networking equipment, driven by the artificial intelligence boom.Shares of the San Jose, California-based company rose 4 per cent in extended …",
+            "source": "CNA",
+            "url": "https://www.channelnewsasia.com/business/cisco-raises-full-year-results-forecast-ai-driven-demand-shares-rise-5130606",
+            "publishedAt": "2025-05-14T20:16:53Z"
+        },
+        {
+            "title": "Cisco beats expectations and its stock rises on growing AI momentum",
+            "description": "Cisco Systems Inc. enjoyed another quarter of growing demand amid the artificial intelligence boom, helping it to beat expectations on earnings and revenue as it posted its third-quarter earnings results. The company reported earnings before certain costs suc…",
+            "source": "SiliconANGLE News",
+            "url": "https://siliconangle.com/2025/05/14/cisco-beats-expectations-stock-rises-growing-ai-momentum/",
+            "publishedAt": "2025-05-14T23:45:43Z"
+        }
+    ],
+    "2025-05-16": [
+        {
+            "title": "Charter upgraded, Cisco downgraded: Wall Street's top analyst calls",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a1921a7-839c-4ae1-8cb6-326e3d599244",
+            "publishedAt": "2025-05-16T13:39:30Z"
+        },
+        {
+            "title": "Explore Cisco IOS XE Automation at Cisco Live US 2025",
+            "description": "Cisco IOS XE offers advanced programmability and automation capabilities that simplify network management and reduce complexity. By utilizing open, standards-based APIs such as NETCONF, RESTCONF, and gNMI, network administrators can efficiently provision and …",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/developer/cisco-ios-xe-automation-clus25",
+            "publishedAt": "2025-05-16T20:44:12Z"
+        },
+        {
+            "title": "Cisco cut to Neutral at New Street Research as ’recovery played out’",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9db3b651-6284-42a9-a8b8-e25e5d510a96",
+            "publishedAt": "2025-05-16T15:33:15Z"
+        },
+        {
+            "title": "The Future is Coming Faster than You Think",
+            "description": "At Cisco, we are building the core infrastructure of the AI era. As new solutions like Codex exemplify, the future of AI will be agentic. We envision a future where billions of AI agents are working together harmoniously on our behalf.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/news/the-future-is-coming-faster-than-you-think",
+            "publishedAt": "2025-05-16T15:00:54Z"
+        }
+    ],
+    "2025-05-13": [
+        {
+            "title": "How Will Cisco's Stock React To Its Upcoming Earnings?",
+            "description": "This would signify a 5% year-over-year rise in adjusted earnings and an 11% increase in sales compared to the previous year’s figures of 88 cents per share and $12.7 b...",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/05/13/how-will-ciscos-stock-react-to-its-upcoming-earnings/",
+            "publishedAt": "2025-05-13T09:30:28Z"
+        },
+        {
+            "title": "United Airlines takes flight with Cisco: building a foundation for digital resilience",
+            "description": "If you’re a Cisco customer, have you ever wondered if you’re maximizing the full potential of your Cisco investment? If so, then you’ve come to the right place. ‘How I Cisco’ is a new series designed to showcase practical solutions to common business challeng…",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/insidervoices/how-i-cisco-united-airlines",
+            "publishedAt": "2025-05-13T15:00:57Z"
+        },
+        {
+            "title": "Building Smarter Cities: Insights and Innovations from Smart City Expo US 2025",
+            "description": "Explore how Cisco and industry leaders are transforming urban living with AI, IoT, and sustainable technologies showcased at Smart City Expo US 2025 and beyond.",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/industries/building-smarter-cities-insights-and-innovations-from-smart-city-expo-us-2025",
+            "publishedAt": "2025-05-13T18:25:24Z"
+        },
+        {
+            "title": "BayLISA and Cisco DevNet – Tech meetups in person and online",
+            "description": "What happens when the sysadmin community meets a modern developer movement? BayLISA and DevNet, that’s what! What is BayLISA? BayLISA stands for Bay Area Large Installation System Administrators and is a user group of system and network administrators from …",
+            "source": "Cisco.com",
+            "url": "https://blogs.cisco.com/developer/baylisa-and-devnet",
+            "publishedAt": "2025-05-13T22:11:00Z"
+        },
+        {
+            "title": "Morgan Stanley Sticks to Buy Rating on Cisco Stock (CSCO) Ahead of Earnings",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_57af79eb-241a-4470-ad17-55aabe26e04f",
+            "publishedAt": "2025-05-13T13:28:26Z"
+        },
+        {
+            "title": "Redefining IABs: Impacts of compartmentalization on threat tracking and modeling",
+            "description": "Threat actors are teaming up, splitting attacks into stages and making defense harder than ever. In Part 1, Cisco Talos examines their tactics and defines their motivations.",
+            "source": "Talosintelligence.com",
+            "url": "https://blog.talosintelligence.com/redefining-initial-access-brokers/",
+            "publishedAt": "2025-05-13T10:00:23Z"
+        },
+        {
+            "title": "Defining a new methodology for modeling and tracking compartmentalized threats",
+            "description": "How do you profile actors and defend your systems when multiple threat actors are working together? In Part 2, Cisco Talos proposes an extended Diamond Model to analyze complex relationships between attackers.",
+            "source": "Talosintelligence.com",
+            "url": "https://blog.talosintelligence.com/compartmentalized-threat-modeling/",
+            "publishedAt": "2025-05-13T10:00:41Z"
+        }
+    ],
+    "2025-05-10": [
+        {
+            "title": "Cisco Systems, Inc. (CSCO): Among the Best Income Stocks to Invest in Now",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_18159b7e-843f-4948-a5ff-bf5917a45cb7",
+            "publishedAt": "2025-05-10T08:12:13Z"
+        }
+    ]
+}

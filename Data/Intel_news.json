@@ -1,0 +1,391 @@
+{
+    "2025-05-16": [
+        {
+            "title": "Shrink exploit windows, slash MTTP: Why ring deployment is now a must for enterprise defense",
+            "description": "Ring deployment slashes MTTP and legacy CVE risk. Learn how Ivanti and Southstar Bank are modernizing patch strategy with real-time intel.",
+            "source": "VentureBeat",
+            "url": "https://venturebeat.com/security/slash-mttp-block-exploits-ring-deployment-now-essential/",
+            "publishedAt": "2025-05-16T20:48:14Z"
+        },
+        {
+            "title": "Intel Core Ultra 7 265K CPU + 32GB G.SKILL Ripjaws M5 RGB DDR5 RAM + 2 Games $299 + Free Shipping",
+            "description": "Newegg [newegg.com] has* Intel Core Ultra 7 265K CPU + 32GB G.SKILL Ripjaws M5 RGB RAM + Civilization VII & Dying Light: The Beast* for *$299.03*. Shipping is Free. \n \nBundle Includes:[LIST][*]Intel...",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18317500-bundle-intel-core-ultra-7-265k-cpu-32gb-g-skill-ripjaws-m5-rgb-ram-civilization-vii-dying-light-the-beast-299-03-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-16T01:07:14Z"
+        },
+        {
+            "title": "Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks",
+            "description": "Researchers at ETH Zürich have discovered yet another security flaw that they say impacts all modern Intel CPUs and causes them to leak sensitive data from memory, showing that the vulnerability known as Spectre continues to haunt computer systems after more …",
+            "source": "Internet",
+            "url": "https://thehackernews.com/2025/05/researchers-expose-new-intel-cpu-flaws.html",
+            "publishedAt": "2025-05-16T09:08:00Z"
+        },
+        {
+            "title": "The New AMD Ryzen 7 9800X3D Is One of the Best Gaming CPUs, and It's Back in Stock at Amazon",
+            "description": "Outperforms more expensive Intel and AMD processors in gaming.",
+            "source": "IGN",
+            "url": "https://www.ign.com/articles/amd-ryzen-7-9800x3d-am5-desktop-cpu-processor-back-in-stock-6",
+            "publishedAt": "2025-05-16T16:45:00Z"
+        },
+        {
+            "title": "AMD or Intel? Acer’s Swift X 14 offers either, plus a GeForce 5070",
+            "description": "Acer is launching two creator-class laptops at Computex 2025: the Swift X 14 and Swift X 14 AI, which give buyers the choice of either an AMD or Intel processor as well as an Nvidia GeForce RTX 5070.\r\n\n\n\n\nA creator-class laptop splits the difference between a…",
+            "source": "PCWorld",
+            "url": "https://www.pcworld.com/article/2779109/amd-or-intel-acers-swift-x-14-offers-either-plus-a-geforce-5070.html",
+            "publishedAt": "2025-05-16T13:00:00Z"
+        }
+    ],
+    "2025-05-08": [
+        {
+            "title": "Why Intel Deprecated SGX?",
+            "description": "The rumors about Intel SGX deprecated in new processors has been confirmed, 12th generation processors (Workstation/Desktop/Laptop/embedded platforms) will deprecate SGX and the SGX will continue to support only in high-end Xeon CPU for server:",
+            "source": "Hardenedvault.net",
+            "url": "https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/",
+            "publishedAt": "2025-05-08T05:32:18Z"
+        },
+        {
+            "title": "Intel Arrow Lake processors bottleneck PCIe 5.0 NVMe SSDs by 16%, limiting peak speeds to 12GB/s instead of 14GB/s",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_61325e9a-b38f-4195-92da-c8ee1f0147e2",
+            "publishedAt": "2025-05-08T11:23:12Z"
+        },
+        {
+            "title": "Lenovo ThinkBook 16 G7 Just Dropped to $1,099 – 52% Off This 64GB Powerhouse",
+            "description": "Save 52% on the Lenovo ThinkBook 16 G7—now $1,099 with 64GB RAM, 2TB SSD, and Intel Ultra 7 chip. One of the best pro laptop deals right now.\nThe post Lenovo ThinkBook 16 G7 Just Dropped to $1,099 – 52% Off This 64GB Powerhouse appeared first on Phandroid.",
+            "source": "Phandroid - News for Android",
+            "url": "https://phandroid.com/2025/05/08/lenovo-thinkbook-16-g7-just-dropped-to-1099-52-off-this-64gb-powerhouse/",
+            "publishedAt": "2025-05-08T13:30:56Z"
+        },
+        {
+            "title": "Intel Link-Off Between Frames \"LOBF\" Submitted For Linux 6.16 Graphics Driver",
+            "description": "A new Intel graphics/display driver feature being enabled for Linux 6.16 is LOBF: Link-Off Between Frames...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Intel-LOBF-For-Linux-6.16",
+            "publishedAt": "2025-05-08T16:33:35Z"
+        },
+        {
+            "title": "Linux 6.16 Bringing A Fix For Old Intel Haswell Graphics",
+            "description": "With the Linux 6.15-rc6 kernel release due out on Sunday, we're hitting the transition point where the focus on DRM kernel graphics drivers for Linux 6.16 is shifting from feature work to bug-fixing ahead of this next merge window. As such sent out today were…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Linux-6.16-Intel-Haswell-iGPU",
+            "publishedAt": "2025-05-08T10:28:29Z"
+        },
+        {
+            "title": "Intel’s XeSS 2 expands support to 10 new games, XeSS surpasses 200-game milestone",
+            "description": "Intel’s XeSS 2 upscaling tech gains traction with more game support and promising FPS gains",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/intels-xess-2-expands-support-to-10-new-games-xess-surpasses-200-game-milestone",
+            "publishedAt": "2025-05-08T11:19:18Z"
+        },
+        {
+            "title": "Intel says latest 13th/14th Gen CPU instability bug firmware does not impact performance",
+            "description": "Intel has issued new firmware to further fix stability issues on 13th and 14th Gen desktop processors. The new update is said to have almost no performance impact. Read more...",
+            "source": "Neowin",
+            "url": "https://www.neowin.net/news/intel-says-latest-13th14th-gen-cpu-instability-bug-firmware-does-not-impact-performance/",
+            "publishedAt": "2025-05-08T09:26:01Z"
+        }
+    ],
+    "2025-05-10": [
+        {
+            "title": "Intel: Winning and Losing",
+            "description": "Idling at a Zenith",
+            "source": "Abortretry.fail",
+            "url": "https://www.abortretry.fail/p/intel-winning-and-losing",
+            "publishedAt": "2025-05-10T11:19:39Z"
+        },
+        {
+            "title": "Charles Bukowski, William Burroughs, and the Computer (2009)",
+            "description": "Reports from the Bibliographic BunkerJed Birmingham on William S. Burroughs Collecting 16-bit Intel 8088 chip with an Apple Macintosh  ...",
+            "source": "Realitystudio.org",
+            "url": "https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/",
+            "publishedAt": "2025-05-10T00:45:47Z"
+        },
+        {
+            "title": "Reverse engineering the 386 processor's prefetch queue circuitry",
+            "description": "In 1985, Intel introduced the groundbreaking 386 processor, the first 32-bit processor in the x86 architecture. To improve performance, the ...",
+            "source": "Righto.com",
+            "url": "http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html",
+            "publishedAt": "2025-05-10T16:23:06Z"
+        },
+        {
+            "title": "Intel's distributed manufacturing might have given it a lifeline",
+            "description": "Intel's road to revival might just be paved with global manufacturing.",
+            "source": "XDA Developers",
+            "url": "https://www.xda-developers.com/intel-distributed-manufacturing-is-a-lifeline/",
+            "publishedAt": "2025-05-10T18:00:19Z"
+        },
+        {
+            "title": "Intel releases new graphics driver with DOOM: The Dark Ages support and more",
+            "description": "Grab this Intel graphics driver if you plan to play the upcoming DOOM: The Dark Ages on your Intel-powered PC. The release also includes some fixes. Read more...",
+            "source": "Neowin",
+            "url": "https://www.neowin.net/news/intel-releases-new-graphics-driver-with-doom-the-dark-ages-support-and-more/",
+            "publishedAt": "2025-05-10T11:18:01Z"
+        },
+        {
+            "title": "Morris Chang Once Talked About How Intel Turned Down His Vision For TSMC — Fast Forward To Today And The Taiwanese Chipmaker Has Outgrown Intel In Market Value By Hundreds Of Billions",
+            "description": "Decades after Intel Corporation (NASDAQ:INTC) walked away from Morris Chang's pitch to co-invest in Taiwan Semiconductor Manufacturing Co. Ltd (NYSE:TSM), the Taiwanese chip giant has skyrocketed past Intel in market value.\nWhat Happened: In a 2014 lecture at…",
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/6fb4b60098e43803",
+            "publishedAt": "2025-05-10T15:32:23Z"
+        }
+    ],
+    "2025-05-09": [
+        {
+            "title": "A Single Chip Computer For The 8051 Generation",
+            "description": "The Intel 8051 series of 8-bit microcontrollers is long-discontinued by its original manufacturer, but lives on as a core included in all manner of more recent chips. It’s easy to understand …",
+            "source": "Hackaday",
+            "url": "https://hackaday.com/2025/05/09/a-single-chip-computer-for-the-8051-generation/",
+            "publishedAt": "2025-05-09T18:30:17Z"
+        },
+        {
+            "title": "16-bit Intel 8088 Chip by Charles Bukowski",
+            "description": "Today I learned that Charles Bukowski, “laureate of American lowlife”, wrote about the incompatibilities of early comp",
+            "source": "kottke.org",
+            "url": "https://kottke.org/25/05/16-bit-intel-8088-chip-by-charles-bukowski",
+            "publishedAt": "2025-05-09T15:54:27Z"
+        },
+        {
+            "title": "MSI Thin Laptop: 15.6\" FHD 144Hz, i5-13420H, RTX 4060, 16GB DDR4, 512GB SSD $699 + Free Shipping",
+            "description": "MSI Thin 15.6 inch FHD 144Hz Gaming Laptop Intel Core i5-13420H NVIDIA GeForce RTX 4060 - 16GB DDR4 512GB SSD Gray (2025) - Walmart.com \n \nhttps://www.walmart.com/ip/MSI-Th...hbdg=L1102",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18302290-msi-thin-laptop-15-6-fhd-144hz-i5-13420h-rtx-4060-16gb-ddr4-512gb-ssd-699-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-09T14:09:06Z"
+        },
+        {
+            "title": "Intel’s latest Core Ultra CPUs slow down high-end SSDs, tests find",
+            "description": "In another blow for Intel’s “Arrow Lake” or Core Ultra 200S platform, testing has confirmed that SSDs inserted into an M.2 slot on a Intel X890 motherboard won’t achieve their full performance.\r\n\n\n\n\nThe SSD Review (via Tom’s Hardware) found that SSDs inserted…",
+            "source": "PCWorld",
+            "url": "https://www.pcworld.com/article/2777201/intels-core-ultra-200s-slows-down-high-end-ssds-tests-find.html",
+            "publishedAt": "2025-05-09T17:14:32Z"
+        },
+        {
+            "title": "Intel NPU Linux Driver 1.17 Released",
+            "description": "Out this morning is the Intel NPU Linux Driver 1.17 release as the newest version of their user-space Neural Processing Unit (NPU) driver code that interfaces with the IVPU accelerator kernel driver...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Intel-NPU-Linux-Driver-1.17",
+            "publishedAt": "2025-05-09T10:40:00Z"
+        },
+        {
+            "title": "Intel Xe Driver With Linux 6.16 Brings Controls For PCIe Link Downgrading On Battlemage",
+            "description": "In addition to the Intel LOBF feature and some other last minute Intel fixes going into the Direct Rendering Manager (DRM) tree ahead of Linux 6.16, a final batch of material for the newer Xe kernel graphics driver was also sent out this week...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Intel-Xe-BMG-PCIe-Downgrade",
+            "publishedAt": "2025-05-09T10:15:31Z"
+        }
+    ],
+    "2025-05-13": [
+        {
+            "title": "ETH Zurich researchers discover new security vulnerability in Intel processors",
+            "description": "Computer scientists at ETH Zurich discover new class of vulnerabilities in Intel processors, allowing them to break down barriers between different users of a processor using carefully crafted instruction sequences. Entire processor memory can be read by empl…",
+            "source": "Ethz.ch",
+            "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/05/eth-zurich-researchers-discover-new-security-vulnerability-in-intel-processors.html",
+            "publishedAt": "2025-05-13T16:44:51Z"
+        },
+        {
+            "title": "New Copilot+ PC feature rolls out to Windows Insiders — even if your device is powered by Intel or AMD",
+            "description": "Microsoft rolled out two new Windows 11 Insider builds, adding support for intelligent actions in Click to Do on Intel and AMD-powered Copilot+ PCs.",
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/software-apps/windows-11/new-copilot-pc-feature-rolls-out-to-insiders-even-if-your-device-is-powered-by-intel-or-amd",
+            "publishedAt": "2025-05-13T12:15:02Z"
+        },
+        {
+            "title": "Intel's latest Arc graphics driver is ready for DOOM: The Dark Ages, launching for Premium Edition owners on PC today",
+            "description": "Intel's latest Arc \"Game On\" GPU driver 32.0.101.6793 supports DOOM: The Dark Ages Premium Edition ahead of its full release on PC.",
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/gaming/pc-gaming/intel-arc-graphics-driver-may-2025-doom-the-dark-ages",
+            "publishedAt": "2025-05-13T14:00:21Z"
+        },
+        {
+            "title": "Devastating Spectre CPU bug returns to haunt Intel processors",
+            "description": "Intel has spent much of its goodwill with customers chasing down bugs: the Spectre and Meltdown bugs it dealt with years ago, as well as the instability that plagued its Raptor Lake processors last year. Now there are additional chapters in each of those stor…",
+            "source": "PCWorld",
+            "url": "https://www.pcworld.com/article/2780652/spectre-cpu-bug-returns-to-haunt-intel-processors.html",
+            "publishedAt": "2025-05-13T17:40:54Z"
+        },
+        {
+            "title": "Branch Privilege Injection Vulnerability Disclosed For Intel CPUs",
+            "description": "It was just yesterday that Training Solo was made public as a new speculative execution CPU vulnerability affecting some Intel and Arm CPUs... Today another one is now public for Intel processors: Branch Privilege Injection...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Branch-Privilege-Injection",
+            "publishedAt": "2025-05-13T17:55:00Z"
+        },
+        {
+            "title": "Intel Releases Updated CPU Microcode Due To \"Training Solo\"",
+            "description": "Following Monday's public disclosure of the \"Training Solo\" security disclosure for this set of issues affecting multiple generations of Intel processors, new Intel CPU microcode has been released for Linux users as part of the mitigation process...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Intel-Microcode-Training-Solo",
+            "publishedAt": "2025-05-13T04:00:01Z"
+        },
+        {
+            "title": "A 48GB dual-GPU Intel Arc B580 is reportedly in the works — Computex reveal rumored",
+            "description": "A new rumor claims that the Intel Arc B580 could get a dual-GPU variant with 48GB of memory.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/a-48gb-dual-gpu-intel-arc-b580-is-reportedly-in-the-works-computex-reveal-rumored",
+            "publishedAt": "2025-05-13T11:49:27Z"
+        },
+        {
+            "title": "18A Or Bust: Will Intel’s Big Bet Pay Off?",
+            "description": "Over the last four years, the semiconductor giant invested about $95 billion in capital expenditures to redefine itself as a leading-edge foundry...",
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/05/13/18a-or-bust-will-intels-big-bet-pay-off/",
+            "publishedAt": "2025-05-13T09:00:44Z"
+        },
+        {
+            "title": "Intel \"Xe4\" and AMD \"GFX13\" codenames surface for next-gen 'Druid' GPUs",
+            "description": "Patch notes and commits have revealed Xe4 (Druid) and GFX13 (successor to RDNA 4) as the internal codenames for upcoming GPU products from Intel and AMD.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/intel-xe4-and-amd-gfx13-codenames-surface-for-next-gen-druid-gpus",
+            "publishedAt": "2025-05-13T15:07:07Z"
+        },
+        {
+            "title": "Now it's AMD's Ryzen 9000-series processors alleged to be suffering from terminal voltage spikes and we're not sure if any CPUs are totally safe",
+            "description": "First it was Intel, now it's claimed AMD CPUs are dying thanks to voltage spikes.",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/hardware/processors/now-its-amds-ryzen-9000-series-processors-alleged-to-be-suffering-from-terminal-voltage-spikes-and-were-not-sure-if-any-cpus-are-totally-safe/",
+            "publishedAt": "2025-05-13T15:14:15Z"
+        }
+    ],
+    "2025-05-14": [
+        {
+            "title": "Intel has announced a load of new bugs afflicting its chips and this time it's not just CPUs but also GPUs that are involved, hooray!",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_723d4f2a-9ccc-4857-aef4-cc3cfa736587",
+            "publishedAt": "2025-05-14T14:31:03Z"
+        },
+        {
+            "title": "Intel still vulnerable to Spectre data-leak vulnerabilities, researchers say",
+            "description": "Seven years later, Spectre is still haunting Intel chips",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/pro/security/intel-still-vulnerable-to-spectre-data-leak-vulnerabilities-researchers-say",
+            "publishedAt": "2025-05-14T10:00:00Z"
+        },
+        {
+            "title": "Security experts have discovered new Intel Spectre vulnerabilities",
+            "description": "Researchers from ETH Zurich have uncovered a new class of vulnerabilities linked to Intel processors. They were able to bypass Intel's defenses against Spectre. Spectre is a class of vulnerabilities that was […]\nThank you for being a Ghacks reader. The post S…",
+            "source": "Ghacks Technology News",
+            "url": "https://www.ghacks.net/2025/05/14/security-experts-have-discovered-new-intel-spectre-vulnerabilities/",
+            "publishedAt": "2025-05-14T13:16:25Z"
+        },
+        {
+            "title": "Intel says foundry business won't break even until 14A in 2027",
+            "description": "Intel expects its loss-making Foundry division to reach breakeven by 2027, driven by internal adoption of its 18A process, and contributions from packaging, and mature nodes.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-says-foundry-business-wont-break-even-until-14a-in-2027",
+            "publishedAt": "2025-05-14T17:26:15Z"
+        },
+        {
+            "title": "AMD Ryzen 9 9900 Series Linux Performance Since Launch",
+            "description": "After recently looking at how the Intel Core Ultra 9 285K \"Arrow Lake\" Linux performance has evolved since launch, many Phoronix readers were curious how a similar launch-day vs. now comparison would look on the AMD Zen 5 side. The article today is looking at…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/ryzen-9900-linux-2025",
+            "publishedAt": "2025-05-14T15:30:00Z"
+        }
+    ],
+    "2025-05-15": [
+        {
+            "title": "Intel reports wave of high-severity GPU vulnerabilities — ten unique security vulnerabilities stemming from poor software hit range of graphics solutions",
+            "description": null,
+            "source": "Yahoo Entertainment",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0fbac54e-e202-4dce-ac27-9d8a5f57527e",
+            "publishedAt": "2025-05-15T16:32:00Z"
+        },
+        {
+            "title": "Intel could be prepping a new mid-range GPU, giving gamers another reason to skip NVIDIA's RTX 5060",
+            "description": "Intel's social media team has been teasing us with Arc B770 hints lately, which is great news for value-conscious PC gamers looking for an alternative to NVIDIA and AMD.",
+            "source": "Windows Central",
+            "url": "https://www.windowscentral.com/hardware/nvidia/intel-b770-rumors-rtx-5060",
+            "publishedAt": "2025-05-15T16:49:25Z"
+        },
+        {
+            "title": "Costco Members: HP Laptop: 14\" 1080p, i3 100U, 12GB RAM, 512GB SSD $315",
+            "description": "*HP 14\" Laptop - Intel Core 3 Processor 100U - 1920 x 1080 - Windows 11 Home - 12GB RAM - 512GB SSD [costco.com]* \n* *$299.97 + $14.95 Shipping* \n \nClearance priced. Many stores near me still have...",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18313705-costco-members-hp-laptop-14-1080p-i3-100u-12gb-ram-512gb-ssd-315?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-15T12:57:09Z"
+        },
+        {
+            "title": "LG gram 17\" Laptop: 2560x1600, Ultra7 258V, 32GB RAM, 1TB SSD, 3.22lbs $1300 + Free Shipping",
+            "description": "LG gram 17&quot; Touch Screen Laptop Copilot+ PC Intel Core Ultra 7 Series 2 with 32GB Memory 1TB SSD Obsidian Black 17Z90TL-H.AUB6U3 - Best Buy \n\nhttps://www.bestbuy.com/site/lg-g...Id=6615259",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18309064-lg-gram-17-17-qhd-ips-touch-intel-ultra-7-258v-32gb-lpddr5-1tb-ssd-1299-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-15T02:26:58Z"
+        },
+        {
+            "title": "Dell 16 Plus Laptop: Ultra 9 288V, 16\" 1600p, 32GB RAM, 2TB SSD $1000 + Free Store Pickup",
+            "description": "*Available In-store Only; In stock at all stores when posting it.* \n \n*SPECS:*[list][*]16\" 2.5K/QHD+ (2560x1600, WQXGA+) 16:10, 120Hz, 300-nits, 100% sRGB, Anti-Glare, WVA/IPS Display[*]Intel Core...",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18312421-dell-16-plus-2025-16-qhd-120hz-ips-intel-ultra-9-288v-32gb-lpddr5-2tb-ssd-999-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-15T22:53:55Z"
+        },
+        {
+            "title": "Huge demand for Ryzen X3D chips sparked a crazy quarter for CPUs",
+            "description": "The CPU market experienced its most tumultuous quarter in some time, decreasing as a whole for AMD and Intel in terms of unit shipments. As Intel struggles, however, its competitors are seizing opportunity where they can.\r\n\n\n\n\nMercury Research released its re…",
+            "source": "PCWorld",
+            "url": "https://www.pcworld.com/article/2784417/big-demand-for-amds-x3d-chips-sparks-crazy-quarter-in-cpu-market.html",
+            "publishedAt": "2025-05-15T17:26:15Z"
+        },
+        {
+            "title": "Intel Core Ultra 7 256V \"Lunar Lake\" Linux Performance In Mid-2025 vs. Launch Day",
+            "description": "Given the significant gains to the Intel Arrow Lake performance on Linux since launch that I showcased last month on Phoronix, I was also eager to see how the Intel Lunar Lake performance has evolved since its debut last year. In this article is a look at tho…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/intel-lunar-lake-linux-improved",
+            "publishedAt": "2025-05-15T18:30:00Z"
+        },
+        {
+            "title": "HP OmniBook 7 Flip 2-in-1 AI Laptop: 16\" 3K OLED, Intel Ultra 7 258V, 32GB RAM $1000 + $15 S/H",
+            "description": "Costco Wholesale has for it's *Members: 1HP OmniBook 7 Flip 2-in-1 AI 16\" Touchscreen Laptop* on sale for *$999.99*. Shipping is $14.99. \n \nThanks to Community Member *Baelzar* for sharing this deal....",
+            "source": "Slickdeals.net",
+            "url": "https://slickdeals.net/f/18312988-hp-omnibook-7-flip-16-3k-oled-touch-32gb-ram-1tb-ssd-starts-14may-999?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "publishedAt": "2025-05-15T06:19:19Z"
+        }
+    ],
+    "2025-05-12": [
+        {
+            "title": "Laptop processors are better than ever, but I still don’t give a hoot about ‘AI PCs’ - and neither should you",
+            "description": "Intel admits that nobody seems to care about AI PCs - but I think that’s fine, actually, and here’s why.",
+            "source": "TechRadar",
+            "url": "https://www.techradar.com/computing/laptops/laptop-processors-are-better-than-ever-but-i-still-dont-give-a-hoot-about-ai-pcs-and-neither-should-you",
+            "publishedAt": "2025-05-12T12:00:00Z"
+        },
+        {
+            "title": "The Best Budget Gaming PC Deals: Thermaltake Prebuilts With Intel Arc B580 or RTX 5060 From $999",
+            "description": "Comfortable 1080p and 1440p gaming without spending a fortune.",
+            "source": "IGN",
+            "url": "https://www.ign.com/articles/thermaltake-intel-arc-b580-rtx-5060-prebuilt-gaming-pc-deals-2025",
+            "publishedAt": "2025-05-12T20:25:00Z"
+        },
+        {
+            "title": "Training Solo: New Set Of Serious Security Vulnerabilities Exposed For Intel & Arm CPUs",
+            "description": "The VUSec security researchers are at it again... The embargo is now lifted on another set of of security vulnerabilities affecting Intel processors as well as Arm core designs. This new vulnerability is dubbed Training Solo...",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/news/Training-Solo-Vulnerability",
+            "publishedAt": "2025-05-12T17:00:00Z"
+        },
+        {
+            "title": "Maxsun registers several Intel Arc B580 24GB models with the EEC",
+            "description": "Maxsun's parent company has filed several GPUs with the EEC, including two that point towards a potential 24GB model of Intel's Arc B580.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/maxsun-registers-several-intel-arc-b580-24gb-models-with-the-eec",
+            "publishedAt": "2025-05-12T12:46:00Z"
+        },
+        {
+            "title": "U.S. inks bill to force geo-tracking tech for high-end gaming and AI GPUs",
+            "description": "A new bill introduced by Senator Tom Cotton would mandate that U.S. chipmakers like AMD, Intel, and Nvidia to embed location-tracking features in high-performance AI and HPC processors starting six months after enactment.",
+            "source": "Tom's Hardware UK",
+            "url": "https://www.tomshardware.com/pc-components/gpus/u-s-inks-bill-to-force-geo-tracking-tech-for-gpus-and-servers-high-end-gaming-gpus-also-subject-to-tracking",
+            "publishedAt": "2025-05-12T13:27:38Z"
+        }
+    ],
+    "2025-05-11": [
+        {
+            "title": "Intel Arc Graphics B570 & B580 Gaming Performance On Linux For Mid 2025",
+            "description": "A number of Phoronix readers have been inquiring in recent weeks around seeing updated Linux graphics/gaming benchmarks for the Intel Arc B-Series \"Battlemage\" graphics cards. So for your viewing pleasure today is a look at the Arc Graphics B580 and B570 grap…",
+            "source": "Phoronix",
+            "url": "https://www.phoronix.com/review/intel-battlemage-linux-may2025",
+            "publishedAt": "2025-05-11T14:25:54Z"
+        }
+    ]
+}
