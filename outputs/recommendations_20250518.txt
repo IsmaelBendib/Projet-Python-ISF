@@ -1,0 +1,498 @@
+Investment recommendations - 2025-05-18
+================================================================================
+
+Company: AMD
+Recommendation: BUY
+expected return: 43.61%
+news sentiment: neutral
+similar companies: Amazon, Netflix, SAP, Siemens
+recent news:
+  - AMD Ryzen 7800X3D CPU + ASUS ROG STRIX B650E-I GAMING WIFI ITX Mobo + Thermal Paste $543 + Free Shipping
+  - ASUS B650E MAX GAMING WIFI W AM5 ATX Motherboard + 32GB Team DDR5 6400 CL32 $170 + Free Shipping
+  - The New AMD Ryzen 7 9800X3D Is One of the Best Gaming CPUs, and It's Back in Stock at Amazon
+  - AMD or Intel? Acer’s Swift X 14 offers either, plus a GeForce 5070
+  - AMD Is Hiring Again To Help Enhance Ryzen On Linux
+
+--------------------------------------------------------------------------------
+
+Company: ASML
+Recommendation: BUY
+expected return: 15.37%
+news sentiment: positive
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+recent news:
+  - Cramer's Lightning Round: Buy Lam Research over ASML
+
+--------------------------------------------------------------------------------
+
+Company: Adobe
+Recommendation: BUY
+expected return: 20.01%
+news sentiment: neutral
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+recent news:
+  - What’s the best CPU for Adobe Premiere Pro? It’s complicated
+  - One new PDF editor does everything Acrobat can, except charge a subscription
+  - Adobe Creative Cloud Update SHAKES UP the Creative World: Meet Creative Cloud Pro, Unlimited AI, and Third-Party Integrations!
+  - How Adobe Express is empowering content creators of all stripes
+
+--------------------------------------------------------------------------------
+
+Company: Alibaba
+Recommendation: HOLD
+expected return: -24.95%
+news sentiment: positive
+similar companies: Tencent, IBM, Intel, Sony, Cisco
+recent news:
+  - Why Alibaba Group (BABA) Stock Crashed Yesterday
+  - Alibaba’s Letdown Tempers the Outlook for China’s Tech Revival
+  - Alibaba Shares Dip Despite E-commerce, AI growth in Q4
+  - Alibaba leans into AI, cloud as commerce growth falters in FY4Q25
+  - 'Big Short' investor Michael Burry was bullish on China tech. Not anymore.
+
+--------------------------------------------------------------------------------
+
+Company: Alphabet
+Recommendation: HOLD
+expected return: -11.00%
+news sentiment: positive
+similar companies: Apple, Microsoft, Meta, NVIDIA, Oracle
+recent news:
+  - Why Alphabet's Parts May Be Worth More Than the Whole
+  - Google’s $1 Trillion Lawsuit
+
+--------------------------------------------------------------------------------
+
+Company: Amazon
+Recommendation: SELL
+expected return: -8.91%
+news sentiment: neutral
+similar companies: Netflix, AMD, SAP, Siemens
+recent news:
+  - I have 5 clear takeaways about the state of the TV business after a week of ad sales parties and presentations
+  - Best Apple Deals of the Week: Sitewide Sales Hit Anker, Verizon, Samsung, and More, Plus BOGO Apple Watch Band Sale at Woot
+
+--------------------------------------------------------------------------------
+
+Company: Apple
+Recommendation: HOLD
+expected return: -11.82%
+news sentiment: positive
+similar companies: Microsoft, Alphabet, Meta, NVIDIA, Oracle
+recent news:
+  - Fortnite for iOS is unavailable worldwide
+  - Apple Music’s new transfer tool simplifies switching from other streaming services
+  - Apple Pay, Apple Card, Wallet and Apple Cash Currently Experiencing Service Issues
+  - Apple's 20th Anniversary iPhone: What We Know So Far
+  - Apple Says Fortnite for iOS Isn't Blocked Worldwide, Just the U.S.
+
+--------------------------------------------------------------------------------
+
+Company: BYD
+Recommendation: HOLD
+expected return: -32.48%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - BYD to establish European centre in Hungary with 2,000 jobs
+  - BYD Atto 3 Compatible All-Weather TPE Floor Mat Set $49 + Shipping (FREE C&C VIC) @ Smooth Sales
+  - MG S5 EV launch date confirmed, May 20 – eMas 7 rival fr RM115k est; early birds get RM5k disc, wallbox
+  - BYD’s funky new kei car spotted testing: Here’s our first look at the mini EV
+  - BYD's independent SiC development powers breakthrough megawatt charging
+
+--------------------------------------------------------------------------------
+
+Company: Baidu
+Recommendation: BUY
+expected return: 8.72%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - 'Big Short' investor Michael Burry was bullish on China tech. Not anymore.
+  - China's tech giants join forces to accelerate humanoid robotics push
+  - GeForce RTX 5090DのダウングレードとGeForce RTX 5080 Ti/Superの噂
+  - Baidu, Bilibili, Lenovo Report as US-China Trade Tensions Ease
+
+--------------------------------------------------------------------------------
+
+Company: Cisco
+Recommendation: HOLD
+expected return: -15.74%
+news sentiment: negative
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Charter upgraded, Cisco downgraded: Wall Street's top analyst calls
+  - Explore Cisco IOS XE Automation at Cisco Live US 2025
+  - Cisco cut to Neutral at New Street Research as ’recovery played out’
+  - The Future is Coming Faster than You Think
+
+--------------------------------------------------------------------------------
+
+Company: ExxonMobil
+Recommendation: HOLD
+expected return: -4.02%
+news sentiment: negative
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Occidental Petroleum, ExxonMobil, Chevron Fall In Pre-Market As Oil Prices Plunge Amid Trump's US-Iran Nuclear Deal Comments
+  - Guyana Soldiers Attacked by Venezuela Amid Oil Territory Dispute
+
+--------------------------------------------------------------------------------
+
+Company: Goldman Sachs
+Recommendation: HOLD
+expected return: -23.22%
+news sentiment: positive
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+recent news:
+  - AvePoint (NASDAQ:AVPT) Sets New 12-Month High on Analyst Upgrade
+
+--------------------------------------------------------------------------------
+
+Company: Hyundai
+Recommendation: BUY
+expected return: 8.13%
+news sentiment: positive
+recent news:
+  - Apple CarPlay Ultra debuts – takes over in-car screens with deeper integration; first use in Aston Martin cars
+  - Sudden failure forces Fourmaux out of Rally Portugal victory fight
+  - Tesla Could Escape Brunt Of Trump's Tariffs While Other Brands Suffer
+  - Despite ongoing war in Ukraine, is Hyundai positioning for return to Russia?
+  - South Korean Shipbuilders HD Hyundai and Hanwha Pitch Port Cranes to Help Rebuild U.S. Maritime Sector
+
+--------------------------------------------------------------------------------
+
+Company: IBM
+Recommendation: HOLD
+expected return: -19.83%
+news sentiment: positive
+similar companies: Tencent, Alibaba, Intel, Sony, Cisco
+recent news:
+  - IBM Unveils LinuxONE 5: A Secure, Efficient, AI-Ready Linux Platform
+  - Five takeaways from IBM Think 2025
+  - ibm-watsonx-gov 0.0.8
+  - langchain-ibm 0.3.11
+  - ibm-fms 1.0.0
+
+--------------------------------------------------------------------------------
+
+Company: ICBC
+Recommendation: HOLD
+expected return: -21.23%
+news sentiment: neutral
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+
+--------------------------------------------------------------------------------
+
+Company: Intel
+Recommendation: BUY
+expected return: 64.32%
+news sentiment: neutral
+similar companies: Tencent, Alibaba, IBM, Sony, Cisco
+recent news:
+  - Shrink exploit windows, slash MTTP: Why ring deployment is now a must for enterprise defense
+  - Intel Core Ultra 7 265K CPU + 32GB G.SKILL Ripjaws M5 RGB DDR5 RAM + 2 Games $299 + Free Shipping
+  - Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks
+  - The New AMD Ryzen 7 9800X3D Is One of the Best Gaming CPUs, and It's Back in Stock at Amazon
+  - AMD or Intel? Acer’s Swift X 14 offers either, plus a GeForce 5070
+
+--------------------------------------------------------------------------------
+
+Company: JD.com
+Recommendation: HOLD
+expected return: -19.24%
+news sentiment: negative
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - 'Big Short' investor Michael Burry was bullish on China tech. Not anymore.
+  - JD.com’s food delivery service faces backlash after system crash amid 618 surge
+  - Big Chinese companies like Alibaba show that AI-powered ads are giving shopping a boost
+
+--------------------------------------------------------------------------------
+
+Company: JP Morgan
+Recommendation: HOLD
+expected return: -19.70%
+news sentiment: negative
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+recent news:
+  - Will $BTC Replace Gold? JPMorgan Thinks So – Bitcoin Bull Token to Rally Next?
+  - JP Morgan Sees Bitcoin Outpacing Gold as Crypto Derivatives Market Expands
+  - 81% of Workers Fear Job Loss This Year — How Should You Prepare?
+  - This Caterpillar Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Friday
+
+--------------------------------------------------------------------------------
+
+Company: Johnson & Johnson
+Recommendation: HOLD
+expected return: 1.85%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Jim Cramer Notes That “People Are Staying Away From” Johnson & Johnson
+
+--------------------------------------------------------------------------------
+
+Company: Louis Vuitton (LVMH)
+Recommendation: BUY
+expected return: 37.46%
+news sentiment: neutral
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+
+--------------------------------------------------------------------------------
+
+Company: Meta
+Recommendation: HOLD
+expected return: -15.24%
+news sentiment: positive
+similar companies: Apple, Microsoft, Alphabet, NVIDIA, Oracle
+recent news:
+  - Meta faces Democratic probe into plans to power a giant data center with gas
+
+--------------------------------------------------------------------------------
+
+Company: Microsoft
+Recommendation: HOLD
+expected return: -8.64%
+news sentiment: positive
+similar companies: Apple, Alphabet, Meta, NVIDIA, Oracle
+recent news:
+  - Xbox is going to let you pin your favorite games on your homescreen
+  - Internal Microsoft memo reveals plans for a new 'Tenant Copilot,' and an 'Agent Factory' concept
+  - Microsoft Says There’s ‘No Evidence’ Its Azure and AI Models Have Harmed People in Gaza
+  - Microsoft wants you to know its best PCs top Apple’s year-old M3 MacBook Air
+  - Microsoft won’t take bigger Copilot risks — due to "a post-traumatic stress disorder from embarrassments," tracing back to Clippy
+
+--------------------------------------------------------------------------------
+
+Company: NVIDIA
+Recommendation: HOLD
+expected return: -26.16%
+news sentiment: positive
+similar companies: Apple, Microsoft, Alphabet, Meta, Oracle
+recent news:
+  - Veteran fund manager unveils bold Nvidia stock price target after rally
+  - From Tactical To Transformational: How Agentic AI Elevates Enterprise IT
+
+--------------------------------------------------------------------------------
+
+Company: Netflix
+Recommendation: HOLD
+expected return: -29.49%
+news sentiment: positive
+similar companies: Amazon, AMD, SAP, Siemens
+recent news:
+  - Sundar Pichai said Google thought 'intensely' about scooping up Netflix — but stopped short of calling the decision a regret
+  - They’re still trying to make a Gears of War movie and now David Leitch is involved
+  - Bingeing, Weekly, or Batches? Is There a Right Way to Roll Out a Series on Streaming?
+
+--------------------------------------------------------------------------------
+
+Company: Nintendo
+Recommendation: HOLD
+expected return: -18.40%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Nintendo details Switch 2 updates for Switch games
+  - Nintendo Switch Online - KILLER INSTINCT GOLD | Nintendo 64 Games Update Trailer
+  - Switch 2 Supply Should Be Ready For Demand In US, Says Nintendo Of America Boss
+  - Free Switch 2 Updates Specified For Original Switch Games Like Pokemon Scarlet/Violet
+  - Nintendo admits Switch 2 won't support VRR on TV after all
+
+--------------------------------------------------------------------------------
+
+Company: Oracle
+Recommendation: SELL
+expected return: -18.86%
+news sentiment: positive
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+recent news:
+  - 5/16 Gamethread: Giants vs. A’s
+
+--------------------------------------------------------------------------------
+
+Company: Pfizer
+Recommendation: BUY
+expected return: 7.00%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - EU queen Ursula preached transparency – then did backdoor deals with Big Pharma
+  - Judge rules Kansas vaccine lawsuit against Pfizer must proceed in state court
+  - Pfizer’s election meddling exposed: Top scientists weaponized science to sway the 2020 vote, so they could benefit from unlawful mandates
+  - House Judiciary Investigating Whether Pfizer Delayed Vaccine Data To Influence 2020 Election Results
+  - Hidden betrayal: Moderna and Pfizer shots hijack immune cells to rewrite mRNA, prolonging spike protein production
+
+--------------------------------------------------------------------------------
+
+Company: Qualcomm
+Recommendation: BUY
+expected return: 4.70%
+news sentiment: positive
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+recent news:
+  - Nothing Phone 3 leak points to a top-tier Qualcomm chip, flagship cameras, and massive battery
+  - Qualcomm Snapdragon 7 Gen 4 announced
+  - Snapdragon 7 Gen 4 brings big CPU and GPU upgrades
+  - Lenovo Thinkbook 16 X1 Plus Laptop Sees Linux Patches But Not Yet Ready For Daily Use
+  - Xiaomi's self-developed smartphone chipset has a name and a release date
+
+--------------------------------------------------------------------------------
+
+Company: Reliance Industries
+Recommendation: HOLD
+expected return: -0.31%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints at positive start; Asian stocks mixed
+
+--------------------------------------------------------------------------------
+
+Company: SAP
+Recommendation: HOLD
+expected return: -21.77%
+news sentiment: positive
+similar companies: Amazon, Netflix, AMD, Siemens
+recent news:
+  - 4 Keys To Successful Change Management From The Bain Playbook
+  - hana-ml 2.24.25051600
+  - Want a fear-free mango season? Here is the science behind mango pimples and ulcers, and how to avoid them
+
+--------------------------------------------------------------------------------
+
+Company: Samsung
+Recommendation: BUY
+expected return: 13.91%
+news sentiment: neutral
+recent news:
+  - Best Apple Deals of the Week: Sitewide Sales Hit Anker, Verizon, Samsung, and More, Plus BOGO Apple Watch Band Sale at Woot
+  - Looking for top-tier performance in a 12.4-inch Android tablet? This one’s a steal at $300 off
+  - The Samsung S25 Edge's Camera Is Good Enough to Rival the Ultra
+  - Samsung could adopt SUS CAN battery tech for future Galaxy phones
+  - Save $400 on the best Samsung TVs, laptops, tablets, and more when you sign up for Verizon 5G Home or Home Internet
+
+--------------------------------------------------------------------------------
+
+Company: Shell
+Recommendation: HOLD
+expected return: -0.43%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - James Comey is under investigation for his '8647' Instagram post. What does it mean?
+  - What Does ‘86 47’ Mean? Why James Comey Is Under Investigation Over an Instagram Post
+  - Don’t call this a Game Boy — it’s better!
+  - Detectar Shell
+
+--------------------------------------------------------------------------------
+
+Company: Siemens
+Recommendation: HOLD
+expected return: -13.49%
+news sentiment: neutral
+similar companies: Amazon, Netflix, AMD, SAP
+recent news:
+  - Siemens Healthineers invests $150M in US, moves production from Mexico
+  - DZ Bank gets more bullish on Siemens Healthineers, upgrades shares
+  - Siemens price target raised by EUR 15 at Citi
+  - Saudi Arabia Utility Bill Management System Markets Report 2025-2030, Competitive Analysis of Siemens, Schneider Electric, Oracle, Honeywell International, IBM, ABB, Eaton, and Schlumberger
+
+--------------------------------------------------------------------------------
+
+Company: SoftBank
+Recommendation: BUY
+expected return: 6.10%
+news sentiment: neutral
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Lemonade, Inc. (NYSE:LMND) Major Shareholder Sells $14,701,554.00 in Stock
+
+--------------------------------------------------------------------------------
+
+Company: Sony
+Recommendation: HOLD
+expected return: -17.40%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Cisco
+recent news:
+  - Sony WH-1000XM6 Wireless Headphones
+  - AirPods Max vs Sony XM6 - Over-ear headphones shootout
+  - Get the Sony WH-1000XM5 for Just $350 with this Offer!
+  - Sony to Launch the Sony FX2, With New EVF Technology
+  - Sony Announces WH-1000XM6 Noise-Canceling Headphones With Foldable Design
+
+--------------------------------------------------------------------------------
+
+Company: Tata Consultancy Services
+Recommendation: BUY
+expected return: 6.77%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - How Tata Consultancy Services uses marathons to win over B2B decision-makers
+
+--------------------------------------------------------------------------------
+
+Company: Tencent
+Recommendation: HOLD
+expected return: -28.65%
+news sentiment: positive
+similar companies: Alibaba, IBM, Intel, Sony, Cisco
+recent news:
+  - Tencent President Discusses Significant Stockpiling of AI GPUs
+  - Tencent Q1 profit rises 14% as AI investment begins to pay off
+  - Tencent Music posts solid Q1 as online subscriptions offset social decline
+  - China's tech giants join forces to accelerate humanoid robotics push
+  - China’s lack of advanced chips hinders broad adoption of AI models: Tencent executive
+
+--------------------------------------------------------------------------------
+
+Company: Tesla
+Recommendation: HOLD
+expected return: -28.40%
+news sentiment: neutral
+recent news:
+  - Tesla Stock At 40% Safety
+  - Tesla (NASDAQ: TSLA) Stock Price Was Up 2.5% Today (LIVE)
+  - Tesla took back leased cars for use as 'robotaxis,' but sold them instead
+  - Elon Musk’s Tesla Robotaxi Rollout Looks Like A Disaster Waiting To Happen
+  - Tesla stock soars for 4th straight week with Musk pay package, board addition in focus
+
+--------------------------------------------------------------------------------
+
+Company: TotalEnergies
+Recommendation: BUY
+expected return: 2.91%
+news sentiment: positive
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Piper Sandler Forecasts Strong Price Appreciation for TotalEnergies (NYSE:TTE) Stock
+
+--------------------------------------------------------------------------------
+
+Company: Toyota
+Recommendation: BUY
+expected return: 16.17%
+news sentiment: neutral
+similar companies: Tencent, Alibaba, IBM, Intel, Sony
+recent news:
+  - Toyota Is Finally Making the EV the Car Market Sorely Needs
+  - I Can't Believe Toyota's New TRD Pro Color Is Actually Worth Writing About, But This Light Blue Is Fantastic
+  - 2026 Toyota bZ Woodland
+  - 1982 Toyota Land Cruiser FJ40
+  - 7k-Mile 2023 Toyota GR Corolla
+
+--------------------------------------------------------------------------------
+
+Company: Visa
+Recommendation: HOLD
+expected return: -14.96%
+news sentiment: positive
+similar companies: Apple, Microsoft, Alphabet, Meta, NVIDIA
+recent news:
+  - Walmart Prepares for a Future Where AI Shops for Consumers
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,1010 @@
+{
+    "Apple": {
+        "recommendation": "HOLD",
+        "final_score": 0.12707317073170732,
+        "expected_return": -11.82076937348472,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA",
+            "Oracle"
+        ],
+        "news_titles": [
+            "Fortnite for iOS is unavailable worldwide",
+            "Apple Music’s new transfer tool simplifies switching from other streaming services",
+            "Apple Pay, Apple Card, Wallet and Apple Cash Currently Experiencing Service Issues",
+            "Apple's 20th Anniversary iPhone: What We Know So Far",
+            "Apple Says Fortnite for iOS Isn't Blocked Worldwide, Just the U.S."
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.11820769373484721,
+            "sentiment": 0.6353658536585366,
+            "enhanced_sentiment": 0.6219512195121951
+        }
+    },
+    "Microsoft": {
+        "recommendation": "HOLD",
+        "final_score": 0.20424320474908558,
+        "expected_return": -8.643919881272861,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Alphabet",
+            "Meta",
+            "NVIDIA",
+            "Oracle"
+        ],
+        "news_titles": [
+            "Xbox is going to let you pin your favorite games on your homescreen",
+            "Internal Microsoft memo reveals plans for a new 'Tenant Copilot,' and an 'Agent Factory' concept",
+            "Microsoft Says There’s ‘No Evidence’ Its Azure and AI Models Have Harmed People in Gaza",
+            "Microsoft wants you to know its best PCs top Apple’s year-old M3 MacBook Air",
+            "Microsoft won’t take bigger Copilot risks — due to \"a post-traumatic stress disorder from embarrassments,\" tracing back to Clippy"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.08643919881272862,
+            "sentiment": 0.75,
+            "enhanced_sentiment": null
+        }
+    },
+    "Amazon": {
+        "recommendation": "SELL",
+        "final_score": -0.6565852529904572,
+        "expected_return": -8.91463132476143,
+        "classification_signal": "SELL",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Netflix",
+            "AMD",
+            "SAP",
+            "Siemens"
+        ],
+        "news_titles": [
+            "I have 5 clear takeaways about the state of the TV business after a week of ad sales parties and presentations",
+            "Best Apple Deals of the Week: Sitewide Sales Hit Anker, Verizon, Samsung, and More, Plus BOGO Apple Watch Band Sale at Woot"
+        ],
+        "signals": {
+            "classification": 0,
+            "return_prediction": -0.0891463132476143,
+            "sentiment": 0.5,
+            "enhanced_sentiment": null
+        }
+    },
+    "Alphabet": {
+        "recommendation": "HOLD",
+        "final_score": 0.2,
+        "expected_return": -10.997225480240955,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Meta",
+            "NVIDIA",
+            "Oracle"
+        ],
+        "news_titles": [
+            "Why Alphabet's Parts May Be Worth More Than the Whole",
+            "Google’s $1 Trillion Lawsuit"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.10997225480240955,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Meta": {
+        "recommendation": "HOLD",
+        "final_score": 0.2,
+        "expected_return": -15.242604980600664,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "NVIDIA",
+            "Oracle"
+        ],
+        "news_titles": [
+            "Meta faces Democratic probe into plans to power a giant data center with gas"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.15242604980600663,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Tesla": {
+        "recommendation": "HOLD",
+        "final_score": 0.04000000000000001,
+        "expected_return": -28.397565466087848,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [],
+        "news_titles": [
+            "Tesla Stock At 40% Safety",
+            "Tesla (NASDAQ: TSLA) Stock Price Was Up 2.5% Today (LIVE)",
+            "Tesla took back leased cars for use as 'robotaxis,' but sold them instead",
+            "Elon Musk’s Tesla Robotaxi Rollout Looks Like A Disaster Waiting To Happen",
+            "Tesla stock soars for 4th straight week with Musk pay package, board addition in focus"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.2839756546608785,
+            "sentiment": 0.2,
+            "enhanced_sentiment": null
+        }
+    },
+    "NVIDIA": {
+        "recommendation": "HOLD",
+        "final_score": 0.2,
+        "expected_return": -26.160676868692367,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "Oracle"
+        ],
+        "news_titles": [
+            "Veteran fund manager unveils bold Nvidia stock price target after rally",
+            "From Tactical To Transformational: How Agentic AI Elevates Enterprise IT"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.2616067686869237,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Samsung": {
+        "recommendation": "BUY",
+        "final_score": 0.9210126582278482,
+        "expected_return": 13.91259271378709,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [],
+        "news_titles": [
+            "Best Apple Deals of the Week: Sitewide Sales Hit Anker, Verizon, Samsung, and More, Plus BOGO Apple Watch Band Sale at Woot",
+            "Looking for top-tier performance in a 12.4-inch Android tablet? This one’s a steal at $300 off",
+            "The Samsung S25 Edge's Camera Is Good Enough to Rival the Ultra",
+            "Samsung could adopt SUS CAN battery tech for future Galaxy phones",
+            "Save $400 on the best Samsung TVs, laptops, tablets, and more when you sign up for Verizon 5G Home or Home Internet"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.1391259271378709,
+            "sentiment": 0.6050632911392404,
+            "enhanced_sentiment": 0.7215189873417721
+        }
+    },
+    "Tencent": {
+        "recommendation": "HOLD",
+        "final_score": 0.04000000000000001,
+        "expected_return": -28.6548291896744,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony",
+            "Cisco"
+        ],
+        "news_titles": [
+            "Tencent President Discusses Significant Stockpiling of AI GPUs",
+            "Tencent Q1 profit rises 14% as AI investment begins to pay off",
+            "Tencent Music posts solid Q1 as online subscriptions offset social decline",
+            "China's tech giants join forces to accelerate humanoid robotics push",
+            "China’s lack of advanced chips hinders broad adoption of AI models: Tencent executive"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.28654829189674397,
+            "sentiment": 0.2,
+            "enhanced_sentiment": null
+        }
+    },
+    "Alibaba": {
+        "recommendation": "HOLD",
+        "final_score": 0.020000000000000004,
+        "expected_return": -24.947976951223787,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "IBM",
+            "Intel",
+            "Sony",
+            "Cisco"
+        ],
+        "news_titles": [
+            "Why Alibaba Group (BABA) Stock Crashed Yesterday",
+            "Alibaba’s Letdown Tempers the Outlook for China’s Tech Revival",
+            "Alibaba Shares Dip Despite E-commerce, AI growth in Q4",
+            "Alibaba leans into AI, cloud as commerce growth falters in FY4Q25",
+            "'Big Short' investor Michael Burry was bullish on China tech. Not anymore."
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.24947976951223785,
+            "sentiment": 0.1,
+            "enhanced_sentiment": null
+        }
+    },
+    "IBM": {
+        "recommendation": "HOLD",
+        "final_score": 0.2,
+        "expected_return": -19.832290637941906,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "Intel",
+            "Sony",
+            "Cisco"
+        ],
+        "news_titles": [
+            "IBM Unveils LinuxONE 5: A Secure, Efficient, AI-Ready Linux Platform",
+            "Five takeaways from IBM Think 2025",
+            "ibm-watsonx-gov 0.0.8",
+            "langchain-ibm 0.3.11",
+            "ibm-fms 1.0.0"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.19832290637941907,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Intel": {
+        "recommendation": "BUY",
+        "final_score": 0.8800000000000001,
+        "expected_return": 64.31621239314643,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Sony",
+            "Cisco"
+        ],
+        "news_titles": [
+            "Shrink exploit windows, slash MTTP: Why ring deployment is now a must for enterprise defense",
+            "Intel Core Ultra 7 265K CPU + 32GB G.SKILL Ripjaws M5 RGB DDR5 RAM + 2 Games $299 + Free Shipping",
+            "Researchers Expose New Intel CPU Flaws Enabling Memory Leaks and Spectre v2 Attacks",
+            "The New AMD Ryzen 7 9800X3D Is One of the Best Gaming CPUs, and It's Back in Stock at Amazon",
+            "AMD or Intel? Acer’s Swift X 14 offers either, plus a GeForce 5070"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.6431621239314643,
+            "sentiment": 0.4,
+            "enhanced_sentiment": null
+        }
+    },
+    "Oracle": {
+        "recommendation": "SELL",
+        "final_score": -0.6000000000000001,
+        "expected_return": -18.855134161519935,
+        "classification_signal": "SELL",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [
+            "5/16 Gamethread: Giants vs. A’s"
+        ],
+        "signals": {
+            "classification": 0,
+            "return_prediction": -0.18855134161519935,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Sony": {
+        "recommendation": "HOLD",
+        "final_score": 0.09348101265822786,
+        "expected_return": -17.39747157824389,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Cisco"
+        ],
+        "news_titles": [
+            "Sony WH-1000XM6 Wireless Headphones",
+            "AirPods Max vs Sony XM6 - Over-ear headphones shootout",
+            "Get the Sony WH-1000XM5 for Just $350 with this Offer!",
+            "Sony to Launch the Sony FX2, With New EVF Technology",
+            "Sony Announces WH-1000XM6 Noise-Canceling Headphones With Foldable Design"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.17397471578243892,
+            "sentiment": 0.4674050632911393,
+            "enhanced_sentiment": 0.4177215189873418
+        }
+    },
+    "Adobe": {
+        "recommendation": "BUY",
+        "final_score": 0.9,
+        "expected_return": 20.014035265527575,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [
+            "What’s the best CPU for Adobe Premiere Pro? It’s complicated",
+            "One new PDF editor does everything Acrobat can, except charge a subscription",
+            "Adobe Creative Cloud Update SHAKES UP the Creative World: Meet Creative Cloud Pro, Unlimited AI, and Third-Party Integrations!",
+            "How Adobe Express is empowering content creators of all stripes"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.20014035265527574,
+            "sentiment": 0.5,
+            "enhanced_sentiment": null
+        }
+    },
+    "Netflix": {
+        "recommendation": "HOLD",
+        "final_score": -0.2666666666666667,
+        "expected_return": -29.493279386595578,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Amazon",
+            "AMD",
+            "SAP",
+            "Siemens"
+        ],
+        "news_titles": [
+            "Sundar Pichai said Google thought 'intensely' about scooping up Netflix — but stopped short of calling the decision a regret",
+            "They’re still trying to make a Gears of War movie and now David Leitch is involved",
+            "Bingeing, Weekly, or Batches? Is There a Right Way to Roll Out a Series on Streaming?"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": -0.2949327938659558,
+            "sentiment": 0.6666666666666666,
+            "enhanced_sentiment": null
+        }
+    },
+    "AMD": {
+        "recommendation": "BUY",
+        "final_score": 0.8,
+        "expected_return": 43.610656311726764,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Amazon",
+            "Netflix",
+            "SAP",
+            "Siemens"
+        ],
+        "news_titles": [
+            "AMD Ryzen 7800X3D CPU + ASUS ROG STRIX B650E-I GAMING WIFI ITX Mobo + Thermal Paste $543 + Free Shipping",
+            "ASUS B650E MAX GAMING WIFI W AM5 ATX Motherboard + 32GB Team DDR5 6400 CL32 $170 + Free Shipping",
+            "The New AMD Ryzen 7 9800X3D Is One of the Best Gaming CPUs, and It's Back in Stock at Amazon",
+            "AMD or Intel? Acer’s Swift X 14 offers either, plus a GeForce 5070",
+            "AMD Is Hiring Again To Help Enhance Ryzen On Linux"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.43610656311726764,
+            "sentiment": 0.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Qualcomm": {
+        "recommendation": "BUY",
+        "final_score": 0.7215219847977361,
+        "expected_return": 4.70471628661007,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [
+            "Nothing Phone 3 leak points to a top-tier Qualcomm chip, flagship cameras, and massive battery",
+            "Qualcomm Snapdragon 7 Gen 4 announced",
+            "Snapdragon 7 Gen 4 brings big CPU and GPU upgrades",
+            "Lenovo Thinkbook 16 X1 Plus Laptop Sees Linux Patches But Not Yet Ready For Daily Use",
+            "Xiaomi's self-developed smartphone chipset has a name and a release date"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.0470471628661007,
+            "sentiment": 0.6666666666666666,
+            "enhanced_sentiment": null
+        }
+    },
+    "Cisco": {
+        "recommendation": "HOLD",
+        "final_score": -0.1,
+        "expected_return": -15.7403403450704,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "negative",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Charter upgraded, Cisco downgraded: Wall Street's top analyst calls",
+            "Explore Cisco IOS XE Automation at Cisco Live US 2025",
+            "Cisco cut to Neutral at New Street Research as ’recovery played out’",
+            "The Future is Coming Faster than You Think"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.157403403450704,
+            "sentiment": -0.5,
+            "enhanced_sentiment": null
+        }
+    },
+    "JP Morgan": {
+        "recommendation": "HOLD",
+        "final_score": 0.0,
+        "expected_return": -19.702187490587683,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "negative",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [
+            "Will $BTC Replace Gold? JPMorgan Thinks So – Bitcoin Bull Token to Rally Next?",
+            "JP Morgan Sees Bitcoin Outpacing Gold as Crypto Derivatives Market Expands",
+            "81% of Workers Fear Job Loss This Year — How Should You Prepare?",
+            "This Caterpillar Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Friday"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.19702187490587683,
+            "sentiment": 0.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Goldman Sachs": {
+        "recommendation": "HOLD",
+        "final_score": 0.2,
+        "expected_return": -23.223549005411403,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [
+            "AvePoint (NASDAQ:AVPT) Sets New 12-Month High on Analyst Upgrade"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.23223549005411404,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Visa": {
+        "recommendation": "HOLD",
+        "final_score": 0.2,
+        "expected_return": -14.964185013855477,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [
+            "Walmart Prepares for a Future Where AI Shops for Consumers"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.14964185013855477,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Johnson & Johnson": {
+        "recommendation": "HOLD",
+        "final_score": 0.27416450710419477,
+        "expected_return": 1.8541126776048689,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Jim Cramer Notes That “People Are Staying Away From” Johnson & Johnson"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": 0.01854112677604869,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Pfizer": {
+        "recommendation": "BUY",
+        "final_score": 0.8801707397702183,
+        "expected_return": 7.0042684942554585,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "EU queen Ursula preached transparency – then did backdoor deals with Big Pharma",
+            "Judge rules Kansas vaccine lawsuit against Pfizer must proceed in state court",
+            "Pfizer’s election meddling exposed: Top scientists weaponized science to sway the 2020 vote, so they could benefit from unlawful mandates",
+            "House Judiciary Investigating Whether Pfizer Delayed Vaccine Data To Influence 2020 Election Results",
+            "Hidden betrayal: Moderna and Pfizer shots hijack immune cells to rewrite mRNA, prolonging spike protein production"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.07004268494255458,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "ExxonMobil": {
+        "recommendation": "HOLD",
+        "final_score": 0.23938917626571188,
+        "expected_return": -4.0152705933572035,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "negative",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Occidental Petroleum, ExxonMobil, Chevron Fall In Pre-Market As Oil Prices Plunge Amid Trump's US-Iran Nuclear Deal Comments",
+            "Guyana Soldiers Attacked by Venezuela Amid Oil Territory Dispute"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.040152705933572036,
+            "sentiment": 0.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "ASML": {
+        "recommendation": "BUY",
+        "final_score": 0.6000000000000001,
+        "expected_return": 15.368381875010343,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [
+            "Cramer's Lightning Round: Buy Lam Research over ASML"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": 0.15368381875010342,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "SAP": {
+        "recommendation": "HOLD",
+        "final_score": 0.2,
+        "expected_return": -21.76684826479981,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Amazon",
+            "Netflix",
+            "AMD",
+            "Siemens"
+        ],
+        "news_titles": [
+            "4 Keys To Successful Change Management From The Bain Playbook",
+            "hana-ml 2.24.25051600",
+            "Want a fear-free mango season? Here is the science behind mango pimples and ulcers, and how to avoid them"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.21766848264799807,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Siemens": {
+        "recommendation": "HOLD",
+        "final_score": 0.05,
+        "expected_return": -13.485685075934903,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Amazon",
+            "Netflix",
+            "AMD",
+            "SAP"
+        ],
+        "news_titles": [
+            "Siemens Healthineers invests $150M in US, moves production from Mexico",
+            "DZ Bank gets more bullish on Siemens Healthineers, upgrades shares",
+            "Siemens price target raised by EUR 15 at Citi",
+            "Saudi Arabia Utility Bill Management System Markets Report 2025-2030, Competitive Analysis of Siemens, Schneider Electric, Oracle, Honeywell International, IBM, ABB, Eaton, and Schlumberger"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.13485685075934903,
+            "sentiment": 0.25,
+            "enhanced_sentiment": null
+        }
+    },
+    "Louis Vuitton (LVMH)": {
+        "recommendation": "BUY",
+        "final_score": 0.8,
+        "expected_return": 37.45975595802638,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.37459755958026375,
+            "sentiment": 0,
+            "enhanced_sentiment": null
+        }
+    },
+    "TotalEnergies": {
+        "recommendation": "BUY",
+        "final_score": 0.7163652098458737,
+        "expected_return": 2.909130246146841,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Piper Sandler Forecasts Strong Price Appreciation for TotalEnergies (NYSE:TTE) Stock"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.029091302461468408,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Shell": {
+        "recommendation": "HOLD",
+        "final_score": 0.18291682988778812,
+        "expected_return": -0.4270792528052972,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "James Comey is under investigation for his '8647' Instagram post. What does it mean?",
+            "What Does ‘86 47’ Mean? Why James Comey Is Under Investigation Over an Instagram Post",
+            "Don’t call this a Game Boy — it’s better!",
+            "Detectar Shell"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": -0.004270792528052972,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Baidu": {
+        "recommendation": "BUY",
+        "final_score": 0.8987397770050961,
+        "expected_return": 8.718494425127401,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "'Big Short' investor Michael Burry was bullish on China tech. Not anymore.",
+            "China's tech giants join forces to accelerate humanoid robotics push",
+            "GeForce RTX 5090DのダウングレードとGeForce RTX 5080 Ti/Superの噂",
+            "Baidu, Bilibili, Lenovo Report as US-China Trade Tensions Ease"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.08718494425127402,
+            "sentiment": 0.75,
+            "enhanced_sentiment": null
+        }
+    },
+    "JD.com": {
+        "recommendation": "HOLD",
+        "final_score": 0.0,
+        "expected_return": -19.241631486679207,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "negative",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "'Big Short' investor Michael Burry was bullish on China tech. Not anymore.",
+            "JD.com’s food delivery service faces backlash after system crash amid 618 surge",
+            "Big Chinese companies like Alibaba show that AI-powered ads are giving shopping a boost"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.1924163148667921,
+            "sentiment": 0.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "BYD": {
+        "recommendation": "HOLD",
+        "final_score": -0.2285714285714286,
+        "expected_return": -32.479343736681784,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "BYD to establish European centre in Hungary with 2,000 jobs",
+            "BYD Atto 3 Compatible All-Weather TPE Floor Mat Set $49 + Shipping (FREE C&C VIC) @ Smooth Sales",
+            "MG S5 EV launch date confirmed, May 20 – eMas 7 rival fr RM115k est; early birds get RM5k disc, wallbox",
+            "BYD’s funky new kei car spotted testing: Here’s our first look at the mini EV",
+            "BYD's independent SiC development powers breakthrough megawatt charging"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": -0.3247934373668178,
+            "sentiment": 0.8571428571428571,
+            "enhanced_sentiment": null
+        }
+    },
+    "ICBC": {
+        "recommendation": "HOLD",
+        "final_score": 0.0,
+        "expected_return": -21.230064042444592,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Apple",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "NVIDIA"
+        ],
+        "news_titles": [],
+        "signals": {
+            "classification": 2,
+            "return_prediction": -0.21230064042444594,
+            "sentiment": 0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Toyota": {
+        "recommendation": "BUY",
+        "final_score": 0.5163833634719711,
+        "expected_return": 16.173135564341063,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Toyota Is Finally Making the EV the Car Market Sorely Needs",
+            "I Can't Believe Toyota's New TRD Pro Color Is Actually Worth Writing About, But This Light Blue Is Fantastic",
+            "2026 Toyota bZ Woodland",
+            "1982 Toyota Land Cruiser FJ40",
+            "7k-Mile 2023 Toyota GR Corolla"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": 0.16173135564341062,
+            "sentiment": 0.5819168173598553,
+            "enhanced_sentiment": 0.7088607594936709
+        }
+    },
+    "SoftBank": {
+        "recommendation": "BUY",
+        "final_score": 0.6440852214541732,
+        "expected_return": 6.1021305363543314,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "neutral",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Lemonade, Inc. (NYSE:LMND) Major Shareholder Sells $14,701,554.00 in Stock"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.06102130536354331,
+            "sentiment": 0.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Nintendo": {
+        "recommendation": "HOLD",
+        "final_score": -0.2686267605633803,
+        "expected_return": -18.397485252038074,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Nintendo details Switch 2 updates for Switch games",
+            "Nintendo Switch Online - KILLER INSTINCT GOLD | Nintendo 64 Games Update Trailer",
+            "Switch 2 Supply Should Be Ready For Demand In US, Says Nintendo Of America Boss",
+            "Free Switch 2 Updates Specified For Original Switch Games Like Pokemon Scarlet/Violet",
+            "Nintendo admits Switch 2 won't support VRR on TV after all"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": -0.18397485252038073,
+            "sentiment": 0.6568661971830986,
+            "enhanced_sentiment": 0.5633802816901409
+        }
+    },
+    "Hyundai": {
+        "recommendation": "BUY",
+        "final_score": 0.3920425898758707,
+        "expected_return": 8.1343980802301,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [],
+        "news_titles": [
+            "Apple CarPlay Ultra debuts – takes over in-car screens with deeper integration; first use in Aston Martin cars",
+            "Sudden failure forces Fourmaux out of Rally Portugal victory fight",
+            "Tesla Could Escape Brunt Of Trump's Tariffs While Other Brands Suffer",
+            "Despite ongoing war in Ukraine, is Hyundai positioning for return to Russia?",
+            "South Korean Shipbuilders HD Hyundai and Hanwha Pitch Port Cranes to Help Rebuild U.S. Maritime Sector"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": 0.08134398080230101,
+            "sentiment": 0.3333333333333333,
+            "enhanced_sentiment": null
+        }
+    },
+    "Reliance Industries": {
+        "recommendation": "HOLD",
+        "final_score": 0.18779001353669308,
+        "expected_return": -0.3052496615826731,
+        "classification_signal": "HOLD",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints at positive start; Asian stocks mixed"
+        ],
+        "signals": {
+            "classification": 1,
+            "return_prediction": -0.003052496615826731,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    },
+    "Tata Consultancy Services": {
+        "recommendation": "BUY",
+        "final_score": 0.8709128318581054,
+        "expected_return": 6.772820796452633,
+        "classification_signal": "BUY",
+        "sentiment_analysis": "positive",
+        "similar_companies": [
+            "Tencent",
+            "Alibaba",
+            "IBM",
+            "Intel",
+            "Sony"
+        ],
+        "news_titles": [
+            "How Tata Consultancy Services uses marathons to win over B2B decision-makers"
+        ],
+        "signals": {
+            "classification": 2,
+            "return_prediction": 0.06772820796452633,
+            "sentiment": 1.0,
+            "enhanced_sentiment": null
+        }
+    }
+}
