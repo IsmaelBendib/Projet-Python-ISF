@@ -69,7 +69,7 @@ def update_data():
             except Exception as e:
                 logger.error(f"Error updating data for {company}: {e}")
 
-        logger.info("Dzta update complete")
+        logger.info("Data update complete")
         return True
     except Exception as e:
         logger.error(f"Error in data update process: {e}")
