@@ -23,7 +23,8 @@ folder_path = "Companies_historical_data/"
 # Pour mesurer le temps
 import time
 
-# Importation de votre librairie iads:
+# Importation de la librairie iads:
+
 # La ligne suivante permet de préciser le chemin d'accès à la librairie iads
 import sys
 
